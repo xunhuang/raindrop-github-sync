@@ -2,20 +2,22 @@
   {
     "_id": 1700494133,
     "link": "https://www.facebook.com/reel/995629042913245/?fs=e&mibextid=wwXIfr&fs=e",
-    "title": "https://www.facebook.com/reel/995629042913245/?fs=e&mibextid=wwXIfr&fs=e",
-    "excerpt": "",
+    "title": "Facebook",
+    "excerpt": "深圳食過含金量最高燒肉界天花板😍\n留言「yum」話你知點Book枱！\n\nThe highest-value yakiniku experience I’ve had in Shenzhen. Comment “yum” for booking details.\n\n全程解放雙手食盡海膽和牛 MVP 絕對係蟹粉海膽釜飯每啖配蟹醋鮮甜到爆 🦀 海膽甜蝦撻雙重鮮味都正到不得了🤩...",
     "note": "",
-    "type": "link",
+    "type": "video",
     "user": {
       "$ref": "users",
       "$id": 6956953
     },
-    "cover": "",
-    "media": [],
+    "cover": "https://scontent-dus1-1.xx.fbcdn.net/v/t51.82787-15/682664255_18134559949552130_5370314680390196628_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a27664&_nc_ohc=i3x1A6vmAGcQ7kNvwGOXgw0&_nc_oc=AdpUpiQPqdlazsDvq8o-ILGB2kUZGIo1J7n1Jd-1UuhgCSJqqWe_xayExm1xyymRmpA&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=A-_LlXZf7uL6mqNHpdpBMQ&_nc_ss=78289&oh=00_Af2prKsoi_jIAas0NY035K0PH6nnThlFfgAYxruaOKFhug&oe=69F8A0FF",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-dus1-1.xx.fbcdn.net/v/t51.82787-15/682664255_18134559949552130_5370314680390196628_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a27664&_nc_ohc=i3x1A6vmAGcQ7kNvwGOXgw0&_nc_oc=AdpUpiQPqdlazsDvq8o-ILGB2kUZGIo1J7n1Jd-1UuhgCSJqqWe_xayExm1xyymRmpA&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&_nc_gid=A-_LlXZf7uL6mqNHpdpBMQ&_nc_ss=78289&oh=00_Af2prKsoi_jIAas0NY035K0PH6nnThlFfgAYxruaOKFhug&oe=69F8A0FF"
+      }
+    ],
     "tags": [],
-    "pleaseParse": {
-      "weight": 1
-    },
     "important": false,
     "removed": false,
     "created": "2026-04-30T05:12:14.336Z",

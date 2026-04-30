@@ -1,10 +1,17 @@
 # Raindrop Bookmarks
 
-Synced: 2026-04-30T05:12:47.892Z
+Synced: 2026-04-30T05:15:58.826Z
 
-## [https://www.facebook.com/reel/995629042913245/?fs=e&mibextid=wwXIfr&fs=e](https://www.facebook.com/reel/995629042913245/?fs=e&mibextid=wwXIfr&fs=e)
+## [Facebook](https://www.facebook.com/reel/995629042913245/?fs=e&mibextid=wwXIfr&fs=e)
 
 Created: 2026-04-30T05:12:14.336Z
+
+深圳食過含金量最高燒肉界天花板😍
+留言「yum」話你知點Book枱！
+
+The highest-value yakiniku experience I’ve had in Shenzhen. Comment “yum” for booking details.
+
+全程解放雙手食盡海膽和牛 MVP 絕對係蟹粉海膽釜飯每啖配蟹醋鮮甜到爆 🦀 海膽甜蝦撻雙重鮮味都正到不得了🤩...
 
 ## [吃了会微醺的大人冰淇淋🍦 - 小红书](https://www.xiaohongshu.com/discovery/item/69f1c92f000000003701fab5?app_platform=ios&app_version=9.27.1&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBtr6Ufk1EZdT26mfDjB0YfQkSlM4CVyNvISngKcwIP7U=&author_share=1&xhsshare=WeixinSession&shareRedId=N0wyOUg-NUo2NzUyOTgwNjY0OTc2Rko7&apptime=1777524919&share_id=a4984ee088d943f2bc44d596818dc04a)
 
