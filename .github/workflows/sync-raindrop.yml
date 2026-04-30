@@ -2,8 +2,12 @@ name: Sync Raindrop
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/sync-raindrop.yml"
+      - "scripts/sync-raindrop.mjs"
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "2-59/5 * * * *"
 
 permissions:
   contents: write
