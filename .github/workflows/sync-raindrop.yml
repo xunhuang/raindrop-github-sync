@@ -1,0 +1,34 @@
+name: Sync Raindrop
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Pull Raindrop bookmarks
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+          RAINDROP_COLLECTION_ID: ${{ vars.RAINDROP_COLLECTION_ID || '0' }}
+        run: node scripts/sync-raindrop.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "raindrop-sync"
+          git config user.email "raindrop-sync@users.noreply.github.com"
+          git add raindrop/bookmarks.json raindrop/bookmarks.md
+          git diff --cached --quiet || git commit -m "Sync Raindrop bookmarks"
+          git push
