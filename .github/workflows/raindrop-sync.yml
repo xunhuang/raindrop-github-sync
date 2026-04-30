@@ -2,6 +2,11 @@ name: Raindrop Sync
 
 on:
   workflow_dispatch:
+    inputs:
+      loop:
+        description: "Continue dispatching this workflow every 3 minutes"
+        required: false
+        default: "false"
   push:
     paths:
       - ".github/workflows/raindrop-sync.yml"
@@ -9,7 +14,12 @@ on:
   schedule:
     - cron: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
 
+concurrency:
+  group: raindrop-sync
+  cancel-in-progress: false
+
 permissions:
+  actions: write
   contents: write
 
 jobs:
@@ -36,3 +46,11 @@ jobs:
           git add raindrop/bookmarks.json raindrop/bookmarks.md
           git diff --cached --quiet || git commit -m "Sync Raindrop bookmarks"
           git push
+
+      - name: Dispatch next loop run
+        if: ${{ always() && github.event_name == 'workflow_dispatch' && inputs.loop == 'true' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 180
+          gh workflow run raindrop-sync.yml --ref main -f loop=true
