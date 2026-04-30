@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-04-30T03:29:38.421Z
+Synced: 2026-04-30T04:05:29.355Z
+
+## [Facebook](https://www.facebook.com/reel/942918698565091/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-04-30T03:43:42.731Z
 
 ## [🍣 Maguro Mart 🍣 When people think of sushi in Japan, tuna is often the first thing that comes to mind.🐟 Did you know there’s a tuna specialty restaurant near Nakano Station on the Tozai Line? At this restaurant, you can enjoy a wide variety of tuna dishes — from rare cuts to creative new ways of eating tuna. One of the most popular items is “Nakaochi,” where you scoop the meat from around the bone with a spoon. It’s a must-try when visiting Maguro Mart. Their tuna bento has also been trending on social media, and enjoying a tuna bento on a picnic is another great option. 🍱 https://www.instagram.com/maguromart/ 📍1F/2F, 5-50-3 Nakano, Nakano-ku, Tokyo 🚇 Nakano Station Tozai Line(Tokyo Metro) #tokyometro #nakano #maguromart #maguro #tokyofood](https://fb.watch/GOwO4EvzVg/?mibextid=wwXIfr&fs=e)
 
