@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "source_url": "https://www.facebook.com/reel/25948159698168739/?fs=e&mibextid=wwXIfr&fs=e",
+  "bookmark_id": 1700301715,
+  "started_at": "2026-05-02T03:55:11.526317+00:00",
+  "completed_at": "2026-05-02T03:56:00.130858+00:00",
+  "video": "source.mp4",
+  "info_json": "source.info.json",
+  "duration": 55.8,
+  "analysis_markdown": "analysis.md",
+  "enriched_at": "2026-05-02T04:08:07.599626+00:00",
+  "analysis_version": 2
+}

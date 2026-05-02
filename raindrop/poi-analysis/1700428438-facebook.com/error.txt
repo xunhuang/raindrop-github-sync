@@ -1,0 +1,1 @@
+ERROR: [facebook] 942918698565091: Cannot parse data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U

@@ -1,0 +1,8 @@
+{
+  "status": "failed",
+  "source_url": "https://www.facebook.com/reel/942918698565091/?fs=e&mibextid=wwXIfr&fs=e",
+  "bookmark_id": 1700428438,
+  "started_at": "2026-05-02T03:57:16.335032+00:00",
+  "failed_at": "2026-05-02T03:57:17.860269+00:00",
+  "error": "ERROR: [facebook] 942918698565091: Cannot parse data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+}
