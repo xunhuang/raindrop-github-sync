@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-07T15:34:37.601Z
+Synced: 2026-05-07T16:19:32.927Z
+
+## [为啥厉害的人都要去吃日本炉端烧 #美食 #日本 #美食测评 #日料 #阿鸡 #food](https://www.facebook.com/reel/1499595445205908/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-07T16:16:48.785Z
+
+## [每次吃完鳗鱼套餐三个月之内都不想再吃 #美食 #日本 #美食测评 #日料 #阿鸡 #food](https://www.facebook.com/reel/1594278821688747/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-07T16:15:53.518Z
 
 ## [写给年轻吃货的霓虹避雷攻略，美食地图存起来～](https://www.facebook.com/reel/1156414076589236/?fs=e&mibextid=wwXIfr&fs=e)
 
