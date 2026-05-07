@@ -1,5 +1,39 @@
 [
   {
+    "_id": 1708259377,
+    "link": "https://www.facebook.com/reel/1936863373622616/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "Facebook",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fwww.facebook.com%2Freel%2F1936863373622616%2F%3Ffs%3De%26mibextid%3DwwXIfr%26fs%3De",
+    "media": [],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-07T01:22:32.669Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-07T01:22:33.141Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1708259377,
+    "collectionId": -1
+  },
+  {
     "_id": 1706493622,
     "link": "https://www.facebook.com/reel/3611273255679223/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "【#假期策劃師】跟著這條鐵路就能玩轉關西 極美味燒海鮮 去水族館探水獺 關西不只大阪！只要跟著由大阪難波出發的SHIMAKAZE號，就能玩轉關西各地區！這次精選3大行程，下次放假就可以坐著闊落的列車慢慢玩。 📍鳥羽水族館 鳥羽水族館 @toba_aquarium.official 有全國唯二的水獺，於鳥羽站下車步行10分鐘即達！ 📍海女燒海鮮 海女小屋 @amahuthachiman 的海女每日都會游到離岸200米的海域捉海鮮，爭奪最好的漁獲。 於近鐵鳥羽站乘坐巴士至「畔蛸口」站下車，步行約10分；或預約免費的海女巴士接送服務。 📍伊勢神宮 伊勢神宮是日本神道教最神聖的場所，每年800萬人參拜。乘坐Shimakaze號的站，可以於伊勢市站下車（外宮步行5–10分鐘）。 🚃觀光特急 SHIMAKAZE 路線：大阪難波站、京都站或近鐵名古屋站出發，途經大和八木站、榊原溫泉口站、伊勢中川站、松阪站、伊勢市站、宇治山田站等站點，最終抵達賢島站 班次：每日只有一班（通常於早上從京都或大阪出發，下午從賢島返回） 車程：約為2小時45分 車費：近鐵名古屋站出發為4,700日圓；購買近鐵Pass後只需加2,690日圓，包廂需額外支付1,050日圓 假期策劃師 ｜ 2026放假想玩得更有計劃？GOtrip幫你做足功課，精選世界各地最新玩樂靈感，幫你設計好行程。記得留意我哋Story，集思廣益投選下次想去嘅旅遊目的地，一齊計劃完美假期！ 影片來源：@cercle.et #關西 #SHIMAKAZE #鳥羽水族館 #GOEX",
