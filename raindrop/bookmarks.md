@@ -1,6 +1,18 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-08T23:04:03.201Z
+Synced: 2026-05-08T23:28:34.926Z
+
+## [道门金句中，震撼人心的一句话：凡我所失，皆非我所有；凡我所求，皆受其所困；万物皆为我所用，而非我所属；君子使物，不为物使；大道至简，无欲则刚；无为，则无所不为#手写书法#国学智慧#人生感悟#家居装饰#字画](https://www.facebook.com/reel/898343192914066/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-08T23:24:11.451Z
+
+## [领导者要明白的用人三大铁律 #商业思维 #企业管理 #领导 #管理](https://www.facebook.com/reel/1718524182662798/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-08T23:21:09.674Z
+
+## [Facebook](https://www.facebook.com/reel/1458107662718657/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-08T23:17:00.981Z
 
 ## [Facebook](https://www.facebook.com/reel/1383034043454030/?fs=e&mibextid=wwXIfr&fs=e)
 
