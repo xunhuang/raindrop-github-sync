@@ -1,6 +1,22 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-09T05:28:09.094Z
+Synced: 2026-05-09T06:18:57.286Z
+
+## [關注 @mindfultherapyhk，天天獲得正面啟發和心靈能量💫 想成為更好的自己，勇敢邁向內在成長？馬上DM我們，一起啟程！ #心靈療癒 #情緒管理 #催眠治療 #MBTI](https://www.facebook.com/reel/2172915730216104/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-09T05:53:45.149Z
+
+## [高手的四個反常 - 追蹤👉 @landlord8.e #語錄 #正能量 #人生 #哲學 #療癒](https://www.facebook.com/reel/909282425488870/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-09T05:53:08.981Z
+
+## [Master the internal discipline of the East to dismantle your stagnation. 🏮 Japanese philosophy offers a precise toolkit for personal transformation. To overcome laziness, you must first identify your **Ikigai**—the purpose that makes you eager to meet the day. Apply **Kaizen** by seeking 1% improvements daily; small, consistent steps outlast grand, fleeting gestures. Manage your biological energy with **Hara Hachi Bu**, eating until you are only 80% full to maintain mental clarity and physical drive. Approach every challenge with **Shoshin**, the beginner’s mind, to keep your curiosity sharp and your ego silent. Use the **Pomodoro Technique** to weaponize your focus in high-intensity intervals. Finally, embrace **Wabi-Sabi**—understand that imperfect action today is infinitely more valuable than a "perfect" plan that never starts. Discipline isn't about being perfect; it's about being present and persistent. Do you have the courage to start small, or will you stay paralyzed by perfe...](https://www.facebook.com/reel/1003781141982905/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-09T05:50:58.591Z
+
+## [🇯🇵大阪超方便行李寄物，竟然只要台幣80元會不會太佛心!? 地點也超方便，就在難波南海電鐵斜對面愛電王EDION，走路1分鐘 2027/3/31前店內消費¥1000以上、出示特別優惠券 原本一天日幣800，直接優惠變成¥200 每日限前30名、每人限一件 ⚠️¥200優惠只有4樓寄物處可用喔～ 留言「日本優惠券」 傳¥200優惠券和愛電王10%＋7%免稅券給你](https://www.facebook.com/reel/959928206595257/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-09T05:49:56.747Z
 
 ## [店舗情報 【串かつ酒場 ひろかつ 上野アメ横店】 📍東京都台東区上野6-13-3 白川ビル 2F 🚶‍♀️上野駅徒歩5分 ⏰ 月・火・水・木・金・土・日・祝日・祝前日 12:00 - 22:30 L.O. 22:00⁡ ※ランチタイム12:00-16:00（L.O.15:00） 📄 スペシャルおちょこ丼ランチ10種¥2,680 ※6種の場合¥1,580 春限定プレミアムおちょこ丼10種¥2,780 ※6種の場合¥1,780 ↑羽釜ご飯だからお米も美味しい…！ ※訪問時の情報である為、最新情報は公式サイトでご確認ください ⁡ #上野グルメ #上野ランチ #東京グルメ #東京ランチ #プロモーション](https://www.facebook.com/reel/2285547875302358/?fs=e&mibextid=wwXIfr&fs=e)
 

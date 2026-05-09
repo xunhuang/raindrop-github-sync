@@ -1,5 +1,161 @@
 [
   {
+    "_id": 1710500790,
+    "link": "https://www.facebook.com/reel/2172915730216104/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "關注 @mindfultherapyhk，天天獲得正面啟發和心靈能量💫 想成為更好的自己，勇敢邁向內在成長？馬上DM我們，一起啟程！ #心靈療癒 #情緒管理 #催眠治療 #MBTI",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.71878-15/648745340_1482067316600219_824394382185589996_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=108&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=IrZ4vglcYyIQ7kNvwHvAXzC&_nc_oc=Adqt1z2GvK58A-VzGGCkhFzgp-16B-8Beo68acxAg12gv7pBw1aVnTx-bYIKturEkb8&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=CQZp7YCjB0ge5eq_S_E1lQ&_nc_ss=7b289&oh=00_Af5-35Toco8XMcRnz4joKpxfYmgPMp4R6KOOH7GiXfITPA&oe=6A04B7F9",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-dfw5-2.xx.fbcdn.net/v/t51.71878-15/648745340_1482067316600219_824394382185589996_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=108&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=IrZ4vglcYyIQ7kNvwHvAXzC&_nc_oc=Adqt1z2GvK58A-VzGGCkhFzgp-16B-8Beo68acxAg12gv7pBw1aVnTx-bYIKturEkb8&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=CQZp7YCjB0ge5eq_S_E1lQ&_nc_ss=7b289&oh=00_Af5-35Toco8XMcRnz4joKpxfYmgPMp4R6KOOH7GiXfITPA&oe=6A04B7F9"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-09T05:53:45.149Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-09T05:53:45.283Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1710500790,
+    "collectionId": -1
+  },
+  {
+    "_id": 1710500659,
+    "link": "https://www.facebook.com/reel/909282425488870/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "高手的四個反常 - 追蹤👉 @landlord8.e #語錄 #正能量 #人生 #哲學 #療癒",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.82787-15/686865671_18125678821617725_953183965141168545_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=z7P10-G3MgwQ7kNvwH0P2XE&_nc_oc=AdrNwMf35jQnIpO3Ji9SVyNVhpXI27fi6p7JxpyDAmsS42SH4enr3UEYLuK8090XRrk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ywUSfRUsLSE1abz8LgCZkw&_nc_ss=7b289&oh=00_Af7k2w-n6M1JTNFU0O1ZuG50_DN3z_EoTxLjo3Apd1vNMw&oe=6A04AEF5",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.82787-15/686865671_18125678821617725_953183965141168545_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=z7P10-G3MgwQ7kNvwH0P2XE&_nc_oc=AdrNwMf35jQnIpO3Ji9SVyNVhpXI27fi6p7JxpyDAmsS42SH4enr3UEYLuK8090XRrk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ywUSfRUsLSE1abz8LgCZkw&_nc_ss=7b289&oh=00_Af7k2w-n6M1JTNFU0O1ZuG50_DN3z_EoTxLjo3Apd1vNMw&oe=6A04AEF5"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-09T05:53:08.981Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-09T05:53:09.134Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1710500659,
+    "collectionId": -1
+  },
+  {
+    "_id": 1710500161,
+    "link": "https://www.facebook.com/reel/1003781141982905/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "Master the internal discipline of the East to dismantle your stagnation. 🏮 Japanese philosophy offers a precise toolkit for personal transformation. To overcome laziness, you must first identify your **Ikigai**—the purpose that makes you eager to meet the day. Apply **Kaizen** by seeking 1% improvements daily; small, consistent steps outlast grand, fleeting gestures. Manage your biological energy with **Hara Hachi Bu**, eating until you are only 80% full to maintain mental clarity and physical drive. Approach every challenge with **Shoshin**, the beginner’s mind, to keep your curiosity sharp and your ego silent. Use the **Pomodoro Technique** to weaponize your focus in high-intensity intervals. Finally, embrace **Wabi-Sabi**—understand that imperfect action today is infinitely more valuable than a \"perfect\" plan that never starts. Discipline isn't about being perfect; it's about being present and persistent. Do you have the courage to start small, or will you stay paralyzed by perfe...",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-xxc1-1.xx.fbcdn.net/v/t15.5256-10/689673126_927638426970540_773169922848204965_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=102&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=fJS0j7nPt3QQ7kNvwHI6GPs&_nc_oc=Adr9BmnXaw12WOrMxfIy-_2MdVerX_Nhod1YMdGRU9qZTmeKHL0HIGQMIyDhd61O-sE&_nc_zt=23&_nc_ht=scontent-xxc1-1.xx&_nc_gid=I_JRFYKxwyh_ALRO2BAzZA&_nc_ss=7b289&oh=00_Af7ifOnQ7-ZytoHiZuzoeYrlQp7yhi8N1V7YQ4zjPK4BCA&oe=6A049945",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-xxc1-1.xx.fbcdn.net/v/t15.5256-10/689673126_927638426970540_773169922848204965_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=102&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=fJS0j7nPt3QQ7kNvwHI6GPs&_nc_oc=Adr9BmnXaw12WOrMxfIy-_2MdVerX_Nhod1YMdGRU9qZTmeKHL0HIGQMIyDhd61O-sE&_nc_zt=23&_nc_ht=scontent-xxc1-1.xx&_nc_gid=I_JRFYKxwyh_ALRO2BAzZA&_nc_ss=7b289&oh=00_Af7ifOnQ7-ZytoHiZuzoeYrlQp7yhi8N1V7YQ4zjPK4BCA&oe=6A049945"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-09T05:50:58.591Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-09T05:50:58.726Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1710500161,
+    "collectionId": -1
+  },
+  {
+    "_id": 1710499932,
+    "link": "https://www.facebook.com/reel/959928206595257/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "🇯🇵大阪超方便行李寄物，竟然只要台幣80元會不會太佛心!? 地點也超方便，就在難波南海電鐵斜對面愛電王EDION，走路1分鐘 2027/3/31前店內消費¥1000以上、出示特別優惠券 原本一天日幣800，直接優惠變成¥200 每日限前30名、每人限一件 ⚠️¥200優惠只有4樓寄物處可用喔～ 留言「日本優惠券」 傳¥200優惠券和愛電王10%＋7%免稅券給你",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-sea5-1.xx.fbcdn.net/v/t51.82787-15/660282920_18575310175000440_2544215120110378833_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=110&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_aid=0&_nc_ohc=_Ts8G-QWx4YQ7kNvwFiNcUd&_nc_oc=Adr3PPCEGeBYe7c8nIJQ6xlzSjf-0OuP4Ea2GI4RAulpsmuVYcp2bEnFMyqvmly0UDA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=MTZa4IoO2TmtlGARv4oX_A&_nc_ss=7b289&oh=00_Af6iRMkPTyKXUfdZ6Ty5pshy_bqKNwupr3p6oYf2ly_YlA&oe=6A049672",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-sea5-1.xx.fbcdn.net/v/t51.82787-15/660282920_18575310175000440_2544215120110378833_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=110&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_aid=0&_nc_ohc=_Ts8G-QWx4YQ7kNvwFiNcUd&_nc_oc=Adr3PPCEGeBYe7c8nIJQ6xlzSjf-0OuP4Ea2GI4RAulpsmuVYcp2bEnFMyqvmly0UDA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=MTZa4IoO2TmtlGARv4oX_A&_nc_ss=7b289&oh=00_Af6iRMkPTyKXUfdZ6Ty5pshy_bqKNwupr3p6oYf2ly_YlA&oe=6A049672"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-09T05:49:56.747Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-09T05:49:56.890Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1710499932,
+    "collectionId": -1
+  },
+  {
     "_id": 1710320641,
     "link": "https://www.facebook.com/reel/2285547875302358/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "店舗情報 【串かつ酒場 ひろかつ 上野アメ横店】 📍東京都台東区上野6-13-3 白川ビル 2F 🚶‍♀️上野駅徒歩5分 ⏰ 月・火・水・木・金・土・日・祝日・祝前日 12:00 - 22:30 L.O. 22:00⁡ ※ランチタイム12:00-16:00（L.O.15:00） 📄 スペシャルおちょこ丼ランチ10種¥2,680 ※6種の場合¥1,580 春限定プレミアムおちょこ丼10種¥2,780 ※6種の場合¥1,780 ↑羽釜ご飯だからお米も美味しい…！ ※訪問時の情報である為、最新情報は公式サイトでご確認ください ⁡ #上野グルメ #上野ランチ #東京グルメ #東京ランチ #プロモーション",
