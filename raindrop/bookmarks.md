@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-09T16:26:53.707Z
+Synced: 2026-05-09T16:48:24.373Z
+
+## [誰說北新地壽司都很貴？這間高 CP 值板前料理，每一口都是真功夫！✨ 想在大阪北新地挑戰 Omakase，卻又擔心荷包大失血嗎？💸 這間「鮨 千功堂」絕對是你預算有限時的最佳首選！ 老實說，在北新地這種一級戰區，能以這麼親民的價格吃到這種水準，真的很有誠意。從魚料的鮮甜度到師傅捏製的力道，每一貫壽司都表現得極具水準，完全不馬虎。🍣 如果你追求的是質感與性價比的平衡，不想花大錢也能享受精緻的板前氛圍，這裡真的非常值得特地來一趟！ 📌 店家資訊： • 店名： 北新地 鮨 千功堂 (Senkudo) • 地址： 大阪府大阪市北區曾根崎新地 1-6-23 杉の家ビル 1F (靠近 JR 北新地站，步行約 3-5 分鐘即可抵達) Looking for an Omakase experience in Osaka’s Kitashinchi without the massive price tag? 💸 "Sushi Senkudo" (鮨 千功堂) is definitely your best bet when you're on a budget! To be honest, in a competitive district like Kitashinchi, finding this level of quality at such an accessible price is truly impressive. From the freshness of the seafood to the chef's meticulous technique, every single piece of sushi is crafted to a high standard. 🍣 If you’re looking for that perfect balance between quality and value—enjoying a sophisticated sushi bar atmosphere without breaking the bank—this place is absolutely worth a visit! 📌 Restaurant Info: • Name: Kitashinchi Sushi Senkudo • Address: 1F ...](https://www.facebook.com/reel/1001085382266419/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-09T16:45:33.143Z
+
+## [✨大阪玩不夠？神戶一日往返這樣排最順！⚓️（甜點＋海景＋夜景一次收集🔥）附交通攻略！ 從大阪出發，其實很適合安排一天到神戶走走～ 這條不繞路行程幫你整理好了，照著玩就很順👇 📍 神戶三宮站（甜點巡禮） 📍 北野異人館 📍 三宮午間和牛 📍 美利堅公園（神戶港） 📍 兵庫縣立美術館 📍 摩耶山（夜景）／舞子公園（日落） 二選一 ⚠️不過要提醒你… 神戶景點其實有點分散 整天搭電車＋走路，真的會走到懷疑人生😵‍💫 👉 想輕鬆一點，可以直接選 INNN 包車🚗 ✔ 9～10 小時包車行程，輕鬆玩一整天 ✔ 飯店/景點門口接送，不用找路 ✔ 想停就停，小孩或長輩累了也能隨時休息 ✔ 不用轉車、不用一直看導航，玩起來更放鬆 同樣一天 👉 玩得更多 👉 人也輕鬆很多 而且多人分攤，其實沒有想像中貴👌 大阪／京都／神戶／奈良… 關西地區都能跑！ 👉 私訊你的行程，小編幫你安排＋報價喔 🔗 直接預訂／了解更多 👉 https://tw.innn.com/ #關西旅遊 #大阪自由行 #神戶一日遊 #關西機場接送 #INNN接送 #日本自由行 #專車接送 #輕鬆旅遊 #來大阪選INNN行程更輕鬆 #人生有點卡來去Osaka](https://www.facebook.com/reel/1696857834821781/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-09T16:35:50.609Z
 
 ## [屯門388一位，拖羅刺身日式放題，抵唔抵食？ #屯門 #屯門御滿屋 #御滿屋 #拖羅放題 #香港放題](https://www.facebook.com/reel/1453157386538726/?fs=e&mibextid=wwXIfr&fs=e)
 
