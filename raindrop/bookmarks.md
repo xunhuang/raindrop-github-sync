@@ -1,6 +1,18 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-10T16:59:08.334Z
+Synced: 2026-05-10T17:26:19.332Z
+
+## [做成一件事最简单的方法！#高效学习技巧 #个人成长干货 #自我提升攻略 #大脑记忆原理 #学习效率提升](https://www.facebook.com/reel/1495129968738212/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-10T17:23:41.722Z
+
+## [終於吃到這家傳說中的鮪魚了🐟 我覺得好吃 但用餐環境跟價格CP值不算高 有吃過一次就好的美味😆 🏠黑銀 📍 2 Chome-11-1 Nipponbashi, Chuo Ward, Osaka, 542-0073日本](https://www.facebook.com/reel/2005961816940620/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-10T17:10:52.783Z
+
+## [【改变自己最快的方式】](https://www.facebook.com/reel/728742340298632/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-10T17:08:45.318Z
 
 ## [誰說北新地壽司都很貴？這間高 CP 值板前料理，每一口都是真功夫！✨ 想在大阪北新地挑戰 Omakase，卻又擔心荷包大失血嗎？💸 這間「鮨 千功堂」絕對是你預算有限時的最佳首選！ 老實說，在北新地這種一級戰區，能以這麼親民的價格吃到這種水準，真的很有誠意。從魚料的鮮甜度到師傅捏製的力道，每一貫壽司都表現得極具水準，完全不馬虎。🍣 如果你追求的是質感與性價比的平衡，不想花大錢也能享受精緻的板前氛圍，這裡真的非常值得特地來一趟！ 📌 店家資訊： • 店名： 北新地 鮨 千功堂 (Senkudo) • 地址： 大阪府大阪市北區曾根崎新地 1-6-23 杉の家ビル 1F (靠近 JR 北新地站，步行約 3-5 分鐘即可抵達) Looking for an Omakase experience in Osaka’s Kitashinchi without the massive price tag? 💸 "Sushi Senkudo" (鮨 千功堂) is definitely your best bet when you're on a budget! To be honest, in a competitive district like Kitashinchi, finding this level of quality at such an accessible price is truly impressive. From the freshness of the seafood to the chef's meticulous technique, every single piece of sushi is crafted to a high standard. 🍣 If you’re looking for that perfect balance between quality and value—enjoying a sophisticated sushi bar atmosphere without breaking the bank—this place is absolutely worth a visit! 📌 Restaurant Info: • Name: Kitashinchi Sushi Senkudo • Address: 1F ...](https://www.facebook.com/reel/1001085382266419/?fs=e&mibextid=wwXIfr&fs=e)
 
