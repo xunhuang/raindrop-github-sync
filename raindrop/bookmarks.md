@@ -1,6 +1,22 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-13T16:09:44.836Z
+Synced: 2026-05-13T17:01:41.967Z
+
+## [#美食 #日本 #美食测评 #日料 #阿鸡](https://www.facebook.com/reel/1291250249439569/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-13T16:41:55.969Z
+
+## [Tokyo’s Most Addictive Shabu-Shabu!? 🦐 Every shrimp lover in Tokyo already knows this place! At 【Kaki Umisachi Kairi】 in Kichijoji, Tokyo, people are obsessed with their summer-limited “Shrimp Mentai Toro Shabu” 🇯🇵✨ 🦐 Shrimp & Spicy Cod Roe Shabu-Shabu ¥3,490 (about $24) / per person (from 2 people) 🍜 Ramen Noodles for the finish ¥440 (about $3) 【Why this place is so amazing】 🤤Enjoy shrimp shabu in both cold & hot styles First, dip the fresh thick shrimp and scallops (fresh enough to eat as sashimi ) into the cold shellfish broth and enjoy the natural sweetness. Then they heat up the pot and add rich spicy cod roe (Mentai)with grated yam, turning it into a hot creamy soup🔥 🦐 Rich & Spicy Soup Once you shabu-shabu the shrimp in the hot soup, the spicy cod roe and tororo thickly coat the shrimp perfectly… And at the end, ramen noodles go into the soup filled with concentrated shrimp flavor🍜 🐟 Fresh live seafood straight from the tank Not only the hotpot, but also the fresh sashimi and ...](https://www.facebook.com/reel/785707171144608/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-13T16:38:54.351Z
+
+## [關注 @mindfultherapyhk，天天獲得正面啟發和心靈能量💫 想成為更好的自己，勇敢邁向內在成長？馬上DM我們，一起啟程！ #心靈療癒 #情緒管理 #催眠治療 #MBTI](https://www.facebook.com/reel/954190447385457/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-13T16:37:54.773Z
+
+## [人品差的领导，最爱干这7件事！ #领导 #管理 #企业管理 #制造业 #职场](https://www.facebook.com/reel/845525784680772/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-13T16:35:19.321Z
 
 ## [【荔枝角最熱鬧居酒屋】 ．滿滿海膽鵝肝拖羅三文魚子． 🍣🍶✨ 成條街都冇乜人，但係仲有一間居酒屋咁熱鬧！ 丼飯滿到瀉咁濟，左口魚睇到厭，呢度偏偏就出咗個右口魚丼，平衡返爆油感同魚肉嘅口感。招牌千層脆脆好食又好睇，幾層layers好足料，款款都好吸引，海膽加埋拖羅蓉呢個組合仲可以點輸！ 見到幾乎每枱都有叫嘅金龍珠卷同埋金酒杯，果然大家都好識食。連埋啲前菜、串燒等等實在有太多好嘢食。記得提早book定坐壽司吧枱，近距離有feel好多。 📍片中菜式： ．銀丼 炙燒右口魚裙邊三文魚子配柚子醋飯 ．海膽鵝肝三文魚籽丼 ．海膽拖羅蓉千層脆脆 ．焦糖鵝肝和牛千層脆脆 ．炙燒右口魚裙邊配拖羅蓉海苔夾心脆脆 ．金龍珠海膽吞拿魚�蓉卷 ．金酒杯 (海膽、三文魚子、拖羅蓉、松葉蟹肉) ．自家製雞皮蝦 . 📍金酒屋 地址：荔枝角長沙灣道909號地舖 電話：26332552 / 59808909 (WhatsApp) . --------------------------------------------------- #搵食街荔枝角 #荔枝角餐廳 #荔枝角必食 #荔枝角美食 #金酒屋](https://www.facebook.com/reel/1303276888420677/?fs=e&mibextid=wwXIfr&fs=e)
 

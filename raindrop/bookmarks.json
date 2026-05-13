@@ -1,5 +1,161 @@
 [
   {
+    "_id": 1717341575,
+    "link": "https://www.facebook.com/reel/1291250249439569/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "#美食 #日本 #美食测评 #日料 #阿鸡",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-sin2-2.xx.fbcdn.net/v/t15.5256-10/695622153_1681044303221963_2977282451459701759_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=103&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=pNLx2VMh-Q8Q7kNvwF-jQE5&_nc_oc=Ado6l3CReh_AwtYCnSfFsOOeFYM32wd8nfpqx5PY9yC9XnGBNObL10TYqb6jZV1bI0s&_nc_zt=23&_nc_ht=scontent-sin2-2.xx&_nc_gid=alrlPSS_vi3s5dMCJItVmA&_nc_ss=7b289&oh=00_Af4XyraSKnt9tALn2M78Br3VLHg5fxVDnXeacUfBb7j3gQ&oe=6A0A6401",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-sin2-2.xx.fbcdn.net/v/t15.5256-10/695622153_1681044303221963_2977282451459701759_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=103&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=pNLx2VMh-Q8Q7kNvwF-jQE5&_nc_oc=Ado6l3CReh_AwtYCnSfFsOOeFYM32wd8nfpqx5PY9yC9XnGBNObL10TYqb6jZV1bI0s&_nc_zt=23&_nc_ht=scontent-sin2-2.xx&_nc_gid=alrlPSS_vi3s5dMCJItVmA&_nc_ss=7b289&oh=00_Af4XyraSKnt9tALn2M78Br3VLHg5fxVDnXeacUfBb7j3gQ&oe=6A0A6401"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-13T16:41:55.969Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-13T16:41:56.091Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1717341575,
+    "collectionId": -1
+  },
+  {
+    "_id": 1717340634,
+    "link": "https://www.facebook.com/reel/785707171144608/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "Tokyo’s Most Addictive Shabu-Shabu!? 🦐 Every shrimp lover in Tokyo already knows this place! At 【Kaki Umisachi Kairi】 in Kichijoji, Tokyo, people are obsessed with their summer-limited “Shrimp Mentai Toro Shabu” 🇯🇵✨ 🦐 Shrimp & Spicy Cod Roe Shabu-Shabu ¥3,490 (about $24) / per person (from 2 people) 🍜 Ramen Noodles for the finish ¥440 (about $3) 【Why this place is so amazing】 🤤Enjoy shrimp shabu in both cold & hot styles First, dip the fresh thick shrimp and scallops (fresh enough to eat as sashimi ) into the cold shellfish broth and enjoy the natural sweetness. Then they heat up the pot and add rich spicy cod roe (Mentai)with grated yam, turning it into a hot creamy soup🔥 🦐 Rich & Spicy Soup Once you shabu-shabu the shrimp in the hot soup, the spicy cod roe and tororo thickly coat the shrimp perfectly… And at the end, ramen noodles go into the soup filled with concentrated shrimp flavor🍜 🐟 Fresh live seafood straight from the tank Not only the hotpot, but also the fresh sashimi and ...",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-2.xx.fbcdn.net/v/t51.71878-15/694949173_26455004440862764_4567991350195724862_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=HL-H-q4wNZEQ7kNvwG_aRSz&_nc_oc=AdpgJWL2tcYiPncG1V7b60R3aHYmceKtzcAJ5qC1XWMdF1DjZxBfs1iJCFse0ByG3Ic&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=rPnmdg8E-bqODnJG0wESOA&_nc_ss=7b289&oh=00_Af5fAZQxUbiuojr5ks0A0vBsw-MJbC_aIRD7LObrUJIh6A&oe=6A0A8C82",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-2.xx.fbcdn.net/v/t51.71878-15/694949173_26455004440862764_4567991350195724862_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=HL-H-q4wNZEQ7kNvwG_aRSz&_nc_oc=AdpgJWL2tcYiPncG1V7b60R3aHYmceKtzcAJ5qC1XWMdF1DjZxBfs1iJCFse0ByG3Ic&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=rPnmdg8E-bqODnJG0wESOA&_nc_ss=7b289&oh=00_Af5fAZQxUbiuojr5ks0A0vBsw-MJbC_aIRD7LObrUJIh6A&oe=6A0A8C82"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-13T16:38:54.351Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-13T16:38:54.552Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1717340634,
+    "collectionId": -1
+  },
+  {
+    "_id": 1717340291,
+    "link": "https://www.facebook.com/reel/954190447385457/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "關注 @mindfultherapyhk，天天獲得正面啟發和心靈能量💫 想成為更好的自己，勇敢邁向內在成長？馬上DM我們，一起啟程！ #心靈療癒 #情緒管理 #催眠治療 #MBTI",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra3-2.xx.fbcdn.net/v/t51.71878-15/689338659_2019450792034779_124596803426548164_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=111&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=4w3HRHeGtE0Q7kNvwFjqoeA&_nc_oc=AdroYoxgGSesvvZNgz0rTQpy4nwlTbzqe5YyjzxGeXj_7lRCrgM98489bNEpzr_agqk&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=be7feeEafPYljMpwHTS_vA&_nc_ss=7b289&oh=00_Af5hHfgX11x7gN7iFSqakJzq027BbCskvnnuZIXaOzHHCA&oe=6A0A8F1B",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra3-2.xx.fbcdn.net/v/t51.71878-15/689338659_2019450792034779_124596803426548164_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=111&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=4w3HRHeGtE0Q7kNvwFjqoeA&_nc_oc=AdroYoxgGSesvvZNgz0rTQpy4nwlTbzqe5YyjzxGeXj_7lRCrgM98489bNEpzr_agqk&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=be7feeEafPYljMpwHTS_vA&_nc_ss=7b289&oh=00_Af5hHfgX11x7gN7iFSqakJzq027BbCskvnnuZIXaOzHHCA&oe=6A0A8F1B"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-13T16:37:54.773Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-13T16:37:54.884Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1717340291,
+    "collectionId": -1
+  },
+  {
+    "_id": 1717335063,
+    "link": "https://www.facebook.com/reel/845525784680772/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "人品差的领导，最爱干这7件事！ #领导 #管理 #企业管理 #制造业 #职场",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-2.xx.fbcdn.net/v/t15.5256-10/676753531_1676410816710078_1578542481742537934_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=2Q42sM4BfY4Q7kNvwGgLctw&_nc_oc=Adr6wnGfZsTlQ_V3F4qsjCsToZHyNs4ASKKGnOqAxg5YUNgZk1yRhbP0PB2GU6YnWWg&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=hMvqyeFRXhSSriXnUXpVKQ&_nc_ss=7b289&oh=00_Af7ucrL9pmjVQQtBjApcHeP8gkY4hh1f4XSAB8xCaTaKDw&oe=6A0A92E3",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-2.xx.fbcdn.net/v/t15.5256-10/676753531_1676410816710078_1578542481742537934_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=2Q42sM4BfY4Q7kNvwGgLctw&_nc_oc=Adr6wnGfZsTlQ_V3F4qsjCsToZHyNs4ASKKGnOqAxg5YUNgZk1yRhbP0PB2GU6YnWWg&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=hMvqyeFRXhSSriXnUXpVKQ&_nc_ss=7b289&oh=00_Af7ucrL9pmjVQQtBjApcHeP8gkY4hh1f4XSAB8xCaTaKDw&oe=6A0A92E3"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-13T16:35:19.321Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-13T16:35:19.450Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1717335063,
+    "collectionId": -1
+  },
+  {
     "_id": 1716786844,
     "link": "https://www.facebook.com/reel/1303276888420677/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "【荔枝角最熱鬧居酒屋】 ．滿滿海膽鵝肝拖羅三文魚子． 🍣🍶✨ 成條街都冇乜人，但係仲有一間居酒屋咁熱鬧！ 丼飯滿到瀉咁濟，左口魚睇到厭，呢度偏偏就出咗個右口魚丼，平衡返爆油感同魚肉嘅口感。招牌千層脆脆好食又好睇，幾層layers好足料，款款都好吸引，海膽加埋拖羅蓉呢個組合仲可以點輸！ 見到幾乎每枱都有叫嘅金龍珠卷同埋金酒杯，果然大家都好識食。連埋啲前菜、串燒等等實在有太多好嘢食。記得提早book定坐壽司吧枱，近距離有feel好多。 📍片中菜式： ．銀丼 炙燒右口魚裙邊三文魚子配柚子醋飯 ．海膽鵝肝三文魚籽丼 ．海膽拖羅蓉千層脆脆 ．焦糖鵝肝和牛千層脆脆 ．炙燒右口魚裙邊配拖羅蓉海苔夾心脆脆 ．金龍珠海膽吞拿魚�蓉卷 ．金酒杯 (海膽、三文魚子、拖羅蓉、松葉蟹肉) ．自家製雞皮蝦 . 📍金酒屋 地址：荔枝角長沙灣道909號地舖 電話：26332552 / 59808909 (WhatsApp) . --------------------------------------------------- #搵食街荔枝角 #荔枝角餐廳 #荔枝角必食 #荔枝角美食 #金酒屋",
