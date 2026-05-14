@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-14T17:27:57.771Z
+Synced: 2026-05-14T18:11:04.062Z
+
+## [去日本玩，最怕居酒屋阿叔熱情同你講日文，你只識傻笑？😅 Benny 醒你一招從銀座媽媽桑身上偷師嘅 「Sa-Shi-Su-Se-So」溝通大法！只要保持微笑，適時拋出呢 5 個音，就算你日文麻麻，對方都覺得你係知音人！ 1️⃣ Sa (さすが)：不愧係你！ 2️⃣ Shi (知らなかった)：真係唔講唔知！ 3️⃣ Su (すごい)：好勁啊！ 4️⃣ Se (世界が違う)：簡直係另一個層次！ 5️⃣ So (そうなんですか)：原來係咁㗎？ 記住：重點係畀足「情緒價值」！即刻睇片學發音，下次去日本用笑容征服全場！✨ #學日語 #日本旅遊 #實用日語 #社恐救星 #日本攻略 #地道日語](https://www.facebook.com/reel/25604736612464396/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-14T18:08:40.972Z
+
+## [12 BEST 📸 spots for 🗻😎 . #mtfuji #fujisan #Japan #日本 #富士山](https://www.facebook.com/reel/1580555779686488/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-14T18:01:06.534Z
 
 ## [Have you ever been to Hokkaido? You can find my Hokkaido pins in my Rexby Map 🗺️ #hokkaido #rebunisland #visithokkaido](https://www.facebook.com/reel/1155122589972639/?fs=e&mibextid=wwXIfr&fs=e)
 
