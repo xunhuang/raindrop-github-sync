@@ -1,6 +1,18 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-17T15:07:02.062Z
+Synced: 2026-05-17T15:34:24.665Z
+
+## [真正的清醒，是不再執著改變別人 #認知 #語錄 #讀書 #覺醒 #醒悟](https://www.facebook.com/reel/964153406545026/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-17T15:16:32.746Z
+
+## [#李中莹 #夸孩子不要只说你很棒、试试下面几句话#🍗🍗](https://www.facebook.com/reel/808511965667552/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-17T15:13:07.337Z
+
+## [Komposisi favorit gw lagi nih… bisa kalian coba ya teman-teman #videography #composition #sonyalpha](https://www.facebook.com/reel/26254578430911443/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-17T15:11:10.498Z
 
 ## [Most-liked video | Reel by jackyy_wch](https://www.facebook.com/reel/896848089900525/?fs=e&mibextid=wwXIfr&fs=e)
 
