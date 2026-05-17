@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-17T17:40:32.796Z
+Synced: 2026-05-17T18:05:04.944Z
 
 ## [真正的清醒，是不再執著改變別人 #認知 #語錄 #讀書 #覺醒 #醒悟](https://www.facebook.com/reel/964153406545026/?fs=e&mibextid=wwXIfr&fs=e)
 
