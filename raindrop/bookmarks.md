@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-18T03:24:03.806Z
+Synced: 2026-05-18T04:53:14.785Z
+
+## [Grub with Greg on Reels](https://www.facebook.com/reel/2769771270062181?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-18T04:49:32.674Z
 
 ## [真正的清醒，是不再執著改變別人 #認知 #語錄 #讀書 #覺醒 #醒悟](https://www.facebook.com/reel/964153406545026/?fs=e&mibextid=wwXIfr&fs=e)
 
