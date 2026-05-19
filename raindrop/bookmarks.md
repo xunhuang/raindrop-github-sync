@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-19T19:15:55.887Z
+Synced: 2026-05-19T20:00:04.155Z
+
+## [如果你覺得自己情商不夠高，或者不善于說話，想要予以改善和提升，這本經典的《高手接話》，就不容錯過！ 給大家推薦一本提高情商的書，提高對話能力讓你的表達有溫度亦有深度！在白話里邂逅古詩文👉：https://s.shopee.tw/8V2cYEUzSM](https://www.facebook.com/reel/804793745400250/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-19T19:31:48.355Z
 
 ## [#高情商#情感共鳴#書單#每日推文#提升自己](https://www.facebook.com/reel/1656061792180062/?fs=e&mibextid=wwXIfr&fs=e)
 
