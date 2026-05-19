@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-19T05:12:41.135Z
+Synced: 2026-05-19T06:35:03.645Z
+
+## [#高情商#情感共鳴#書單#每日推文#提升自己](https://www.facebook.com/reel/1656061792180062/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-19T06:05:43.202Z
 
 ## [Grub with Greg on Reels](https://www.facebook.com/reel/2769771270062181?fs=e&mibextid=wwXIfr&fs=e)
 
