@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-19T07:55:06.029Z
+Synced: 2026-05-19T09:04:52.565Z
 
 ## [#高情商#情感共鳴#書單#每日推文#提升自己](https://www.facebook.com/reel/1656061792180062/?fs=e&mibextid=wwXIfr&fs=e)
 
