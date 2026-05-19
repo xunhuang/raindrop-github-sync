@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-19T23:15:20.706Z
+Synced: 2026-05-19T23:42:46.281Z
+
+## [今日话题：人生走到后來，才懂这 9 件事。 #第一桶金](https://www.facebook.com/reel/1998210017491648/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-19T23:40:29.589Z
 
 ## [如果你嘴笨，不會說話，推薦翻爛這本《對答如流》，書中采用一問一答的形式，簡單直接明了，拿來就能用](https://www.facebook.com/reel/977839194702091/?fs=e&mibextid=wwXIfr&fs=e)
 
