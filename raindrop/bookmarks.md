@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-19T21:48:29.715Z
+Synced: 2026-05-19T22:19:09.823Z
 
 ## [如果你嘴笨，不會說話，推薦翻爛這本《對答如流》，書中采用一問一答的形式，簡單直接明了，拿來就能用](https://www.facebook.com/reel/977839194702091/?fs=e&mibextid=wwXIfr&fs=e)
 
