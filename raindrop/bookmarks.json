@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1724250112,
+    "link": "https://www.facebook.com/reel/977839194702091/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "如果你嘴笨，不會說話，推薦翻爛這本《對答如流》，書中采用一問一答的形式，簡單直接明了，拿來就能用",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-1.xx.fbcdn.net/v/t15.5256-10/696157855_1469284784996001_8001508603692692122_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=100&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=7ACk69QB3n4Q7kNvwFmnnON&_nc_oc=AdrFQoc0tSBl0JLwUGZWNf8ByrIApm9G67c_l6Kav6d26BPWmvpzYbbZr1ezW-5W9ac&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=htvTVMYprwIhlX236zclcQ&_nc_ss=7b289&oh=00_Af4OoP2mXW1adYBp8_2UBz7plkmsRVjU0wNfRU4Eg6pWag&oe=6A12B574",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-1.xx.fbcdn.net/v/t15.5256-10/696157855_1469284784996001_8001508603692692122_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=100&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=7ACk69QB3n4Q7kNvwFmnnON&_nc_oc=AdrFQoc0tSBl0JLwUGZWNf8ByrIApm9G67c_l6Kav6d26BPWmvpzYbbZr1ezW-5W9ac&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=htvTVMYprwIhlX236zclcQ&_nc_ss=7b289&oh=00_Af4OoP2mXW1adYBp8_2UBz7plkmsRVjU0wNfRU4Eg6pWag&oe=6A12B574"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-05-19T21:08:50.447Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-05-19T21:08:50.577Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1724250112,
+    "collectionId": -1
+  },
+  {
     "_id": 1724152647,
     "link": "https://www.facebook.com/reel/804793745400250/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "如果你覺得自己情商不夠高，或者不善于說話，想要予以改善和提升，這本經典的《高手接話》，就不容錯過！ 給大家推薦一本提高情商的書，提高對話能力讓你的表達有溫度亦有深度！在白話里邂逅古詩文👉：https://s.shopee.tw/8V2cYEUzSM",

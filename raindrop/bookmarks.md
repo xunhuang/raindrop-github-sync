@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-19T20:43:49.956Z
+Synced: 2026-05-19T21:14:05.253Z
+
+## [如果你嘴笨，不會說話，推薦翻爛這本《對答如流》，書中采用一問一答的形式，簡單直接明了，拿來就能用](https://www.facebook.com/reel/977839194702091/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-19T21:08:50.447Z
 
 ## [如果你覺得自己情商不夠高，或者不善于說話，想要予以改善和提升，這本經典的《高手接話》，就不容錯過！ 給大家推薦一本提高情商的書，提高對話能力讓你的表達有溫度亦有深度！在白話里邂逅古詩文👉：https://s.shopee.tw/8V2cYEUzSM](https://www.facebook.com/reel/804793745400250/?fs=e&mibextid=wwXIfr&fs=e)
 
