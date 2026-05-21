@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-21T12:31:28.870Z
+Synced: 2026-05-21T13:41:54.309Z
 
 ## [Here are six top-quality Japanese box cutters to make your life easier: "Hako Ake" is a multi-tool that easily slices through duct tape and has built-in scissors for thicker materials. The "Olfa Kai Cone" offers a unique dual-blade design for a smooth, satisfying cut, while the "Midori Cardboard Cutter" features a safer ceramic blade that works just as well as a razor. "Danchan" functions like a letter opener but tackles cardboard and duct tape with ease. "Shutto" includes a safety mechanism to reveal the blade and has a hidden edge for letters, and the "Olfa Safety Cutter" retracts its blade automatically after each use, perfect for breaking down boxes, though not ideal for tape.](https://www.facebook.com/bungu.store/videos/1519711863094117/?fs=e&d=n&mibextid=wwXIfr&fs=e)
 
