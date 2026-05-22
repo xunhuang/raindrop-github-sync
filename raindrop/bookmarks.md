@@ -1,6 +1,22 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-22T09:52:56.246Z
+Synced: 2026-05-22T10:55:48.970Z
+
+## [长期呆在家里的人，心态一般会经历四个阶段的变化。 第一阶段：自由期，第二阶段：虚无期，第三阶段：觉醒期，第四阶段：重建期，那么你又在哪个阶段呢？#心态 #宅在家 #成长 #心理学 #科普](https://www.facebook.com/reel/1327500695856070/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-22T10:50:18.281Z
+
+## [自助餐真的不可能吃回本的...](https://www.facebook.com/reel/1613541140367945/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-22T10:44:56.727Z
+
+## [长期不上班的人，会是什么心态呢？我发现会走向两个不同的极端 #心理学 #躺平 #不上班的日子 #心态 #个人成长](https://www.facebook.com/reel/1984711318801592/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-22T10:39:25.756Z
+
+## [廣州各行業最大的批發市場第4期，全部地鐵直達，你去過幾個🤔…？ ps：往期回顧放喺評論區…… #週末去哪兒 #廣州批發市場 #買東西 #服裝 #廣州買衣服 #廣州 #廣州批發市場 #廣州好去處 #掃貨攻略 #十三行 #童裝批發 #三元里皮具 #大沙頭舊貨市場 #平靚正 #窮游攻略 #大灣區 #香港人北上 #廣州購物 #批發市場 #文青打卡 #旅遊 #灣區小tips #澳車北上 #港車北上 #大灣區旅遊 #港人北上 #免費景點 #北上 #family #退休生活](https://www.facebook.com/reel/1520270362952598/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-22T09:55:15.369Z
 
 ## [Tokyo is incredible, but these 5 Easy Day Trips from Tokyo are less than 2 hours away - Kamakura, Mt Takao, Kawagoe, Mt Fuji, Hakone. 1. KAMAKURA ⛩️ seaside / temples / traditional town 🚊 Station: Kamakura Station 🚃 From Tokyo: JR Yokosuka Line](https://www.facebook.com/reel/2760324631009719/?fs=e&mibextid=wwXIfr&fs=e)
 
