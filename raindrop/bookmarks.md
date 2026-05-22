@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-21T23:37:43.003Z
+Synced: 2026-05-22T00:03:41.673Z
 
 ## [Casual Quince Session 📸✨ DM @bax.paris.photographer to Book your Paris photo session 📸 #parisphotographer #parisphotoshoot #fotografoparis Paris photographer, Paris photoshoot, Eiffel Tower photo session, couple photos in Paris, fotografo en paris, things to do in paris, engagement Paris, honeymoon Paris, family session Paris, solo portraits Paris, cinematic Paris moments, quinceañera Paris, best photographer in Paris.](https://www.facebook.com/reel/1017255190746701/?fs=e&mibextid=wwXIfr&fs=e)
 
