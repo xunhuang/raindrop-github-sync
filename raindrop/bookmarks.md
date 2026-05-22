@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-22T07:34:30.158Z
+Synced: 2026-05-22T08:38:34.530Z
 
 ## [Tokyo is incredible, but these 5 Easy Day Trips from Tokyo are less than 2 hours away - Kamakura, Mt Takao, Kawagoe, Mt Fuji, Hakone. 1. KAMAKURA ⛩️ seaside / temples / traditional town 🚊 Station: Kamakura Station 🚃 From Tokyo: JR Yokosuka Line](https://www.facebook.com/reel/2760324631009719/?fs=e&mibextid=wwXIfr&fs=e)
 
