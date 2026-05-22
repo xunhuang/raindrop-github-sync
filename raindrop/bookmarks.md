@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-22T00:03:41.673Z
+Synced: 2026-05-22T01:15:24.056Z
+
+## [Basic dance Moves For Beginners #jddancetutorial #basicdancemoves #dancetutorial #oldschoolhiphop Basic Dance move Basic Dance step Basic Dance footwork Dance footwork for beginner](https://www.facebook.com/reel/1750735849227020/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-22T00:55:27.717Z
 
 ## [Casual Quince Session 📸✨ DM @bax.paris.photographer to Book your Paris photo session 📸 #parisphotographer #parisphotoshoot #fotografoparis Paris photographer, Paris photoshoot, Eiffel Tower photo session, couple photos in Paris, fotografo en paris, things to do in paris, engagement Paris, honeymoon Paris, family session Paris, solo portraits Paris, cinematic Paris moments, quinceañera Paris, best photographer in Paris.](https://www.facebook.com/reel/1017255190746701/?fs=e&mibextid=wwXIfr&fs=e)
 
