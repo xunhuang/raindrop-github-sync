@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-05-22T06:16:43.402Z
+Synced: 2026-05-22T07:34:30.158Z
+
+## [Tokyo is incredible, but these 5 Easy Day Trips from Tokyo are less than 2 hours away - Kamakura, Mt Takao, Kawagoe, Mt Fuji, Hakone. 1. KAMAKURA ⛩️ seaside / temples / traditional town 🚊 Station: Kamakura Station 🚃 From Tokyo: JR Yokosuka Line](https://www.facebook.com/reel/2760324631009719/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-22T07:26:26.614Z
+
+## [Take the Hokuriku route and explore🚄 Kanazawa → Shirakawa-go → Takayama → Nagoya Samurai districts, UNESCO villages, historic towns, and some of the best beef in Japan. All in just 2 nights. Save this route for your Japan trip 🇯🇵 ____________________________________ 📍 Please check the LINK IN OUR PROFILE to book authentic tours and experiences. 🤝 Let our professional concierge help you choose the perfect experiences or design a complete, all-inclusive package. 📝 Fill in your travel details, and we’ll reach out on WhatsApp.(or Email) ✅ Prefer to book right away? Reserve your spot directly on our website in seconds! Follow us for more Japan travel tips🇯🇵 @travel.japan_together #japantravel #japantrip #visitjapan #tourguideinjapan #localjapan](https://www.facebook.com/reel/1256918229198380/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-05-22T06:35:34.788Z
 
 ## [#李中莹 #养孩子的终极目的到底是什么？ #🍗🍗](https://www.facebook.com/reel/1658416802251212/?fs=e&mibextid=wwXIfr&fs=e)
 
