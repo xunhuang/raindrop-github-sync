@@ -1,6 +1,18 @@
 # Raindrop Bookmarks
 
-Synced: 2026-06-06T03:18:51.693Z
+Synced: 2026-06-06T04:42:06.072Z
+
+## [Here’s the biggest planning tip I can give you if you’re visiting Osaka for the first time Don’t treat it like Tokyo Tokyo is where you stay in the city Osaka is where you use the city As a base for day trips. As a gateway to Kansai. And as the perfect jumping-off point for places like Nara, Kyoto and Katsuoji Temple Most travellers try to see Osaka by bouncing between opposite sides of the city Instead, group the city by area and build day trips around it Here’s exactly how I’d spend 3 days: ✋ {First comment OSAKA for our free Osaka Guide} ⭐️ DAY 1 - Namba & Dotonbori Keep your first day around Namba and Dotonbori so you’re not wasting time crossing the city 📍Namba Yasaka Shrine 📍Dotonbori 📍Rikuro’s Cheesecake 📍Hozenji Yokocho 📍Dotonbori after dark ⭐️ DAY 2 - Shinsekai One of Osaka’s most underrated areas and home to some of the city’s best neon 📍Shinsekai 📍Bear Paw Cafe 📍Tsutenkaku Tower 📍Tsutenkaku Tower Slide 📍Shinsekai food street 📍Shinsekai after dark ⭐️ DAY 3 - Day Trip From Osa...](https://www.facebook.com/reel/2169101400514290/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-06-06T03:39:12.324Z
+
+## [男人的五大吸引力](https://www.facebook.com/reel/1476800757277343/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-06-06T03:37:51.488Z
+
+## [【#好動旅人】東京兩手揈揈也能跑皇居 一站式租鞋儲物洗澡 想在東京體驗跑步文化，其實完全不用自備裝備！這天剛好遇到下雨沒心情逛景點，於是決定來到皇居附近的「Raffine Neo Running Style @raffine.runningstyle」租借裝備跑一轉。這裡早上7點就營業，非常適合晨跑，租借一對Nike跑鞋只需180円。這次我直接租了全套衣褲連鞋子，加上儲物櫃費用，也只需1,530円。 繞皇居跑一圈剛好是5公里，全程沒有紅綠燈，跑起來十分順暢。沿途還能欣賞許多特色建築與古蹟，加上租借不限時，完全可以按自己的節奏無壓力慢跑。跑完後回到跑站洗個澡，換上乾淨衣服，時間剛好銜接商店開門，直接去Shopping！ 梅雨季去東京不知道能安排什麼行程，強烈建議來體驗一下當地的跑步文化，大家有去過東京其他跑站嗎？和大家分享吧！ Raffine Neo Running Style ⏰營業時間：07:00 - 22:00（平日）；07:00 - 20:00（周末及假日） 📅地址：東京都千代田區有樂町 1 丁目 1-2（東京中城日比谷 MB1 樓） 好動旅人 ｜ 旅遊不止食買玩，用跑步、潛水或滑雪等活動探索世界，在運動的節奏裡，發現每個地方最真實的風景。邊一場戶外旅程令你最難忘？即刻DM我哋分享你的冒險故事！ 影片來源：GOtrip編輯部 #皇居 #跑步 #東京 #RaffineNeo GOtrip_hd](https://www.facebook.com/reel/1630741571374318/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-06-06T03:35:57.644Z
 
 ## [一隻爛茶碗點解值一個億？日本嘅「靚」，係 1500 年計算嘅結果。 去過 10 次日本嘅你，可能都從未真正「睇得明」日本—— 唔係匠人精神，唔係齋講侘寂咁簡單， 而係 8 個顛覆認知嘅漢字密碼👇 微・並・氣・間・秘・素・假・破 出自日本設計教父 黒川雅之 2006 年寫低嘅《日本的八個審美意識》。 Benny 幫你逐字拆解， 仲配埋 8 件由 千利休、宮本武藏、長谷川等伯、谷崎潤一郎 呢啲日本大家所創立嘅「代表作」（國寶級）—— 睇完之後，你會發現： 日本嘅靚唔係意外，係 1500 年計算嘅結果。 📍 想要《日本審美速查卡》——8 字解碼 + 親身觀看交通 tips （修學院離宮、妙喜庵待庵、TNM 松林圖屏風、彥根城屏風……地址 + 交通Tips全部打包好） 💬 留言「美」or「靚」，Benny即刻 inbox 你呢張速查卡📩 #日本旅遊 #日本文化 #日本美學 #日本的八個審美意識 #日式美學](https://www.facebook.com/reel/4479193335694845/?fs=e&mibextid=wwXIfr&fs=e)
 
