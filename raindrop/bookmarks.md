@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-06-09T01:18:26.027Z
+Synced: 2026-06-09T02:06:42.055Z
+
+## [https://www.facebook.com/61583093491084/posts/pfbid0QDMpn8Lc7CzfQH3FtA6LHMibrgwfgp1JXubpd2Bq4KV8enXTBe8jGq7tSxzQmc6gl/?d=n&mibextid=wwXIfr](https://www.facebook.com/61583093491084/posts/pfbid0QDMpn8Lc7CzfQH3FtA6LHMibrgwfgp1JXubpd2Bq4KV8enXTBe8jGq7tSxzQmc6gl/?d=n&mibextid=wwXIfr)
+
+Created: 2026-06-09T01:32:06.780Z
 
 ## [Here’s the biggest planning tip I can give you if you’re visiting Osaka for the first time Don’t treat it like Tokyo Tokyo is where you stay in the city Osaka is where you use the city As a base for day trips. As a gateway to Kansai. And as the perfect jumping-off point for places like Nara, Kyoto and Katsuoji Temple Most travellers try to see Osaka by bouncing between opposite sides of the city Instead, group the city by area and build day trips around it Here’s exactly how I’d spend 3 days: ✋ {First comment OSAKA for our free Osaka Guide} ⭐️ DAY 1 - Namba & Dotonbori Keep your first day around Namba and Dotonbori so you’re not wasting time crossing the city 📍Namba Yasaka Shrine 📍Dotonbori 📍Rikuro’s Cheesecake 📍Hozenji Yokocho 📍Dotonbori after dark ⭐️ DAY 2 - Shinsekai One of Osaka’s most underrated areas and home to some of the city’s best neon 📍Shinsekai 📍Bear Paw Cafe 📍Tsutenkaku Tower 📍Tsutenkaku Tower Slide 📍Shinsekai food street 📍Shinsekai after dark ⭐️ DAY 3 - Day Trip From Osa...](https://www.facebook.com/reel/2169101400514290/?fs=e&mibextid=wwXIfr&fs=e)
 
