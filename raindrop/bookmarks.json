@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1764361890,
+    "link": "https://www.facebook.com/reel/1339327768098831/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "职场要想有前途，一定要学会这7种工作态度 #苏引华 #商业思维 #职场",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-2.xx.fbcdn.net/v/t15.5256-10/708653643_1147254740909259_375595582092827421_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=106&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=_dA8PP06h1QQ7kNvwGqTt_y&_nc_oc=AdoEPotqJ4q3rq-QEiFdRBHvmxNiUHQZ-a2mb-UF76PHBR60tGMaOumkFi_R942ZqMo&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=gY8QV70gBmZbSrpScP2Kdg&_nc_ss=7b20f&oh=00_Af-1jCbDnaunEHq5pFDKTzOsoABa1QodMr4oIY6XJZpd_A&oe=6A3B346B",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-2.xx.fbcdn.net/v/t15.5256-10/708653643_1147254740909259_375595582092827421_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=106&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=_dA8PP06h1QQ7kNvwGqTt_y&_nc_oc=AdoEPotqJ4q3rq-QEiFdRBHvmxNiUHQZ-a2mb-UF76PHBR60tGMaOumkFi_R942ZqMo&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=gY8QV70gBmZbSrpScP2Kdg&_nc_ss=7b20f&oh=00_Af-1jCbDnaunEHq5pFDKTzOsoABa1QodMr4oIY6XJZpd_A&oe=6A3B346B"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-06-19T15:14:50.752Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-06-19T15:14:52.125Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1764361890,
+    "collectionId": -1
+  },
+  {
     "_id": 1763138205,
     "link": "https://www.facebook.com/reel/1529547852228548/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "波折重重😭Jennifer Room 無線風扇 終 於 到 達 香 港 了！！ 而家做緊一件免運費 仲要2個工作天內送到 快啲留言「fan」拎連結🔗 今次 2026 更新版 PRO 終於回歸， 而且今代真係升級咗好多實用位！ ✔️ 60° / 90° / 120° 三段旋轉角度 想細範圍吹自己，定大範圍吹成間房都可以自己調節 ✔️ 智能記憶功能 會記住你上次用開嘅設定，唔洗每次重新較過 ✔️ LED 顯示螢幕 電量同狀態一眼睇到，唔會用用下先發現無電 ✔️ BLDC 靜音低耗能摩打 比上一代更加靜，夜晚開住瞓都冇咁嘈 最正係佢一摺就收埋到，唔用嗰陣完全唔阻地方， 對於屋企已經好多雜物嘅人嚟講，真係好加分🤣 Jennifer Room 一向都係顏值高， 唔會好似普通風扇咁一放出嚟就破壞屋企個感覺， 係一部又靚又實用嘅家品。 如果你屋企未有一部無線風扇， 或者上年錯過咗 Jennifer Room， 今次 2026 PRO 版可以入手!",
