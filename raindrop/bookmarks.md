@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-07-04T09:57:56.299Z
+Synced: 2026-07-04T10:42:26.130Z
 
 ## [China build's some of the craziest things. This building is China's largest indoor ski resort. I haven't tried it out myself yet, but I did get to explore the mall and some of the other attractions around it. . . . . #china #chinavlog #shenzhen #深圳 #hongkong](https://www.facebook.com/reel/866152009467576/?fs=e&mibextid=wwXIfr&fs=e)
 
