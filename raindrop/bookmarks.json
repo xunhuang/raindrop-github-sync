@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1782823937,
+    "link": "https://www.facebook.com/reel/3045293715665896/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "【今晚截止】最後機會！iPhone 攝影學院限時 80% 折扣！ 😲📱📸 如果你想拍出令人驚艷、讓所有人驚呼的 iPhone 照片…… 那現在就是加入這門課程的最佳時機！ 這項超值優惠只剩下幾個小時就要結束了…… 趁 80% 折扣結束前立即報名： https://secure.iphonephotographyschool.com/iphone-photo-academy?lang=zh",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-1.xx.fbcdn.net/v/t15.5256-10/682659162_3045293738999227_871738183711511269_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=102&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=8eXhg9_B3eIQ7kNvwGzdjTU&_nc_oc=AdoMXXzqXbROj8gIMhXjaAWXsIgETmNFWu_Q2vfkugFg2oWHCMpRF1TnejvMqEcyWA8&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=7cID4SgqS3uLUEOU_zjhaA&_nc_ss=7b20f&oh=00_AQBNBStBNYYhaJvQgfaVSv3Mp8YhpIRpD1AdYFiQFtqcSA&oe=6A51A088",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-1.xx.fbcdn.net/v/t15.5256-10/682659162_3045293738999227_871738183711511269_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=102&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=8eXhg9_B3eIQ7kNvwGzdjTU&_nc_oc=AdoMXXzqXbROj8gIMhXjaAWXsIgETmNFWu_Q2vfkugFg2oWHCMpRF1TnejvMqEcyWA8&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=7cID4SgqS3uLUEOU_zjhaA&_nc_ss=7b20f&oh=00_AQBNBStBNYYhaJvQgfaVSv3Mp8YhpIRpD1AdYFiQFtqcSA&oe=6A51A088"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-07-06T16:38:35.406Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-07-06T16:38:35.570Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1782823937,
+    "collectionId": -1
+  },
+  {
     "_id": 1781193880,
     "link": "https://www.facebook.com/reel/1041691088313292/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "I love These moves , Do you like it ? #basicdancemoves #basicdance #basicdance #jddancetutorial #fbreels",
