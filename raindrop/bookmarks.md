@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-07-07T22:35:18.906Z
+Synced: 2026-07-07T22:59:52.009Z
 
 ## [Build a foundation in... - MIT XPRO - Robotics Essentials](https://www.facebook.com/100071160743405/posts/pfbid0Ma3YRHMkk3LStuwztT1TMaKKeJiJMqsjTwuzTVBEtJwg6rPskG4fUZMmVYL1GoEyl/?d=n&mibextid=wwXIfr)
 
