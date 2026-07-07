@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-07-07T04:05:50.685Z
+Synced: 2026-07-07T05:31:32.625Z
 
 ## [【今晚截止】最後機會！iPhone 攝影學院限時 80% 折扣！ 😲📱📸 如果你想拍出令人驚艷、讓所有人驚呼的 iPhone 照片…… 那現在就是加入這門課程的最佳時機！ 這項超值優惠只剩下幾個小時就要結束了…… 趁 80% 折扣結束前立即報名： https://secure.iphonephotographyschool.com/iphone-photo-academy?lang=zh](https://www.facebook.com/reel/3045293715665896/?fs=e&mibextid=wwXIfr&fs=e)
 
