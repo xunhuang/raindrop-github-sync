@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-07-08T16:56:08.486Z
+Synced: 2026-07-08T17:31:47.580Z
+
+## [JEANS & TOP guide 👖🤍](https://www.facebook.com/reel/2282282979182257/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-07-08T17:23:21.060Z
 
 ## [Build a foundation in... - MIT XPRO - Robotics Essentials](https://www.facebook.com/100071160743405/posts/pfbid0Ma3YRHMkk3LStuwztT1TMaKKeJiJMqsjTwuzTVBEtJwg6rPskG4fUZMmVYL1GoEyl/?d=n&mibextid=wwXIfr)
 
