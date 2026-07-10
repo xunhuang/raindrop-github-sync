@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-07-10T06:51:53.763Z
+Synced: 2026-07-10T08:03:00.094Z
+
+## [方法選對，效率健身](https://www.facebook.com/reel/929195110210067/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-07-10T07:09:10.128Z
+
+## [https://fb.watch/IgkR_ZxOd6/?mibextid=wwXIfr](https://fb.watch/IgkR_ZxOd6/?mibextid=wwXIfr)
+
+Created: 2026-07-10T07:05:49.410Z
 
 ## [Tired of working from the same place every day? Start working from anywhere with the infinitely portable and adjustable (sit or stand) Tripod Desk. It's perfect for working from home or on the go.](https://www.facebook.com/IntensionDesignMfg/videos/806062314542453/?fs=e&d=n&mibextid=wwXIfr&fs=e)
 
