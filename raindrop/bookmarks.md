@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-07-25T15:07:11.061Z
+Synced: 2026-07-25T15:34:34.971Z
+
+## [Click here for plans to this Compact Crosscut Sled: https://thomascustomwoodworks.com/products/compact-crosscut-sled-plans-written-and-video](https://www.facebook.com/reel/2291563884912733?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-07-25T15:12:17.866Z
 
 ## [Pack light, stay cool, move free. The most versatile & comfy shorts you'll ever wear. ✅ Super stretchy ✅ Lightweight & packable ✅ Breathable ✅ Zipper pockets ✅ Lifetime warranty & made to last Fast, FREE shipping / returns.](https://www.facebook.com/reel/27100071006347969/?fs=e&mibextid=wwXIfr&fs=e)
 
