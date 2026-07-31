@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-07-31T05:55:03.416Z
+Synced: 2026-07-31T06:55:15.913Z
 
 ## [當孩子具備了這三種底氣， 無論命運把他丟到哪裡， 他都能自己活出一條路。 #育兒思維 #家庭教育 #認知提升 #核心競爭力 #抗逆力](https://www.facebook.com/reel/1350265150653419/?fs=e&mibextid=wwXIfr&fs=e)
 
