@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-07-31T03:37:39.743Z
+Synced: 2026-07-31T04:50:44.910Z
+
+## [當孩子具備了這三種底氣， 無論命運把他丟到哪裡， 他都能自己活出一條路。 #育兒思維 #家庭教育 #認知提升 #核心競爭力 #抗逆力](https://www.facebook.com/reel/1350265150653419/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-07-31T04:28:03.380Z
 
 ## [Click here for plans to this Compact Crosscut Sled: https://thomascustomwoodworks.com/products/compact-crosscut-sled-plans-written-and-video](https://www.facebook.com/reel/2291563884912733?fs=e&mibextid=wwXIfr&fs=e)
 
