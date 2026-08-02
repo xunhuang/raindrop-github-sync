@@ -1,5 +1,83 @@
 [
   {
+    "_id": 1807701278,
+    "link": "https://www.facebook.com/100063721713398/posts/pfbid037MxVdW5Wwx2o6aueXpPoKx4ZsHH1eCe4EaTuC3GW5ry1SXNenaQ1uyvPogwxcpB9l/?fs=e&d=n&mibextid=wwXIfr&fs=e",
+    "title": "Dcbel - 📢 CA residents: qualify for up to $13,800 in...",
+    "excerpt": "📢 CA residents: qualify for up to $13,800 in subsidies applicable towards bidirectional EV, hardware & installation costs and more when you place a no-obligation reservation. Apply today! 🚗↔️🏠",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://www.facebook.com/ads/image/?d=AQL5URsnYzz96m1Kyya5YtCsIh_lxMIoShVLiVbhmGDOTjiEk5vSacrphKr8IuUKSdnJkgNQfr4JSEPBfya4JFaPCd3wZcK4eiUQubjDZF31EIMzpi_i7Fvx3RwEd4oOCOUIZU5cTH_iNmEIqIYrqUuG",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://www.facebook.com/ads/image/?d=AQL5URsnYzz96m1Kyya5YtCsIh_lxMIoShVLiVbhmGDOTjiEk5vSacrphKr8IuUKSdnJkgNQfr4JSEPBfya4JFaPCd3wZcK4eiUQubjDZF31EIMzpi_i7Fvx3RwEd4oOCOUIZU5cTH_iNmEIqIYrqUuG"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-08-02T14:05:59.695Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-08-02T14:05:59.869Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1807701278,
+    "collectionId": -1
+  },
+  {
+    "_id": 1807681974,
+    "link": "https://www.facebook.com/reel/4048096288676496/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "富裕家庭俾零用錢💰，從來唔睇金額，只睇一件事！而呢件事，決定孩子將來係富 定係窮。 #personalgrowth #wealth #財商 #家庭教養",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-2.xx.fbcdn.net/v/t51.82787-15/719490870_18457191892115894_3778714874514520052_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=GQU6Zqzi2ogQ7kNvwH0LY_T&_nc_oc=AdofsqPInm_6mMyewgDEdTL5OsNl2T1jKHDmWNzYv8DBePojFjmB6kwkaFu3WO1Cz8s&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=33ItW1AbSZezxA8UXB-t1A&_nc_ss=7b20f&oh=00_AQGHO0NvzGKFJ5-hz9fM2sh4hNuyGP9_5fknr5r8o6030w&oe=6A752C61",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-2.xx.fbcdn.net/v/t51.82787-15/719490870_18457191892115894_3778714874514520052_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=GQU6Zqzi2ogQ7kNvwH0LY_T&_nc_oc=AdofsqPInm_6mMyewgDEdTL5OsNl2T1jKHDmWNzYv8DBePojFjmB6kwkaFu3WO1Cz8s&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=33ItW1AbSZezxA8UXB-t1A&_nc_ss=7b20f&oh=00_AQGHO0NvzGKFJ5-hz9fM2sh4hNuyGP9_5fknr5r8o6030w&oe=6A752C61"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-08-02T13:52:50.435Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-08-02T13:52:50.605Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1807681974,
+    "collectionId": -1
+  },
+  {
     "_id": 1807292100,
     "link": "https://www.facebook.com/reel/1609782794111662/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "Clean, Clutter‑Free Workspace 🧹 Say goodbye to cable chaos! The PULWTOP Dock mounts your Mac Mini M4 out of the way, hiding all cables behind. A clean workspace = a clear mind! 🧠✨ 🔗🔗 https://#minimalistdesk #PULWTOP #MacMiniM4 #CleanWorkspace #CableFree #minimalistdesk",

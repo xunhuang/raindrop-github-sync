@@ -1,6 +1,16 @@
 # Raindrop Bookmarks
 
-Synced: 2026-08-02T13:38:47.774Z
+Synced: 2026-08-02T14:13:24.122Z
+
+## [Dcbel - 📢 CA residents: qualify for up to $13,800 in...](https://www.facebook.com/100063721713398/posts/pfbid037MxVdW5Wwx2o6aueXpPoKx4ZsHH1eCe4EaTuC3GW5ry1SXNenaQ1uyvPogwxcpB9l/?fs=e&d=n&mibextid=wwXIfr&fs=e)
+
+Created: 2026-08-02T14:05:59.695Z
+
+📢 CA residents: qualify for up to $13,800 in subsidies applicable towards bidirectional EV, hardware & installation costs and more when you place a no-obligation reservation. Apply today! 🚗↔️🏠
+
+## [富裕家庭俾零用錢💰，從來唔睇金額，只睇一件事！而呢件事，決定孩子將來係富 定係窮。 #personalgrowth #wealth #財商 #家庭教養](https://www.facebook.com/reel/4048096288676496/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-08-02T13:52:50.435Z
 
 ## [Clean, Clutter‑Free Workspace 🧹 Say goodbye to cable chaos! The PULWTOP Dock mounts your Mac Mini M4 out of the way, hiding all cables behind. A clean workspace = a clear mind! 🧠✨ 🔗🔗 https://#minimalistdesk #PULWTOP #MacMiniM4 #CleanWorkspace #CableFree #minimalistdesk](https://www.facebook.com/reel/1609782794111662/?fs=e&mibextid=wwXIfr&fs=e)
 
