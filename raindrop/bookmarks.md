@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-08-12T18:27:19.359Z
+Synced: 2026-08-12T19:35:38.265Z
 
 ## [A professional video kit for iPhone 17 Pro Max! Learn more about NEEWER PA144👉https://shorturl.at/dmtWL #neewer #shotonphone #iphone17promax #phonephotography #videokit](https://www.facebook.com/reel/1758239322031880/?fs=e&mibextid=wwXIfr&fs=e)
 
