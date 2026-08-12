@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-08-12T13:38:45.408Z
+Synced: 2026-08-12T14:40:56.721Z
+
+## [A professional video kit for iPhone 17 Pro Max! Learn more about NEEWER PA144👉https://shorturl.at/dmtWL #neewer #shotonphone #iphone17promax #phonephotography #videokit](https://www.facebook.com/reel/1758239322031880/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-08-12T13:49:32.826Z
+
+## [Still Using a Basic Table Saw? This Upgrade Changes Everything](https://www.facebook.com/reel/2205147470261020/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-08-12T13:48:20.199Z
 
 ## [00 後成日去旅行，絕對唔係敗家❗️ 而係佢地偷偷咁學緊一樣，我哋呢代人捱左成世都學唔識嘅事。 #親子 #教養 #成長 #家庭關係](https://www.facebook.com/reel/880583441467622/?fs=e&mibextid=wwXIfr&fs=e)
 
