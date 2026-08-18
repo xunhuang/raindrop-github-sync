@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-08-18T04:21:02.106Z
+Synced: 2026-08-18T04:55:53.853Z
+
+## [The Ultimate Vegetable Cutter (a.k.a. The Nakiri) Every knife in the Japanese kitchen is optimized for a specific task, and the Nakiri is the perfect tool for vegetables. It has a super thin blade that slices without damaging any of your delicate veggies, and a large flat edge to make sure that every strand is cut to completion. The Four Star Nakiri from @zwilling_usa combines the traditional shape with high quality German stainless steel to make this knife the ultimate choice for prepping any vegetable. Personally, I also like how much control I get from the shorter blade length when I'm prepping things in a hurry. If you want some help prepping veggies, check out the Four Star Nakiri and the rest of Zwilling's family of knives at the link in my bio. #ad #zwilling1731 #knifeskills](https://www.facebook.com/ZWILLINGUSA/videos/28668699276051279/?fs=e&d=n&mibextid=wwXIfr&fs=e)
+
+Created: 2026-08-18T04:41:59.339Z
 
 ## [设计一万次意外，却死在自己的剧本里。——《意外》(二) #古天乐#叶璇](https://www.facebook.com/reel/2098887237680532/?fs=e&mibextid=wwXIfr&fs=e)
 
