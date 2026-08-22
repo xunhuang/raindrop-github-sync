@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-08-22T21:59:09.470Z
+Synced: 2026-08-22T22:22:51.328Z
 
 ## [From the Essential 16x12 to the 32-pound Centerpiece, our range is built to the highest engineering standards. Using only FAS-grade American Black Walnut and Cherry, we showcase the natural grain while ensuring every board is a masterpiece of structural integrity. We hand-select every plank for its grain structure and assemble them to achieve our hallmark repeating symmetry. To ensure permanent stability, we secure our designs using food-safe steel screws throughout—engineered to prevent delamination and cracking for generations. Four Sizes. Same Standard. Zero Compromise.](https://www.facebook.com/reel/1383315923225133/?fs=e&mibextid=wwXIfr&fs=e)
 
