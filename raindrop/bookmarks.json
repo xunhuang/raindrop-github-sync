@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1831954625,
+    "link": "https://www.facebook.com/reel/1034224816199948/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "📚 你屋企書架，可能都有佢一本書： ⛩️ 香港公共圖書館 2025 成人中文小說百大借閱榜，21 本出自同一個日本人 —— 東野圭吾（7月23日仙逝），而佢細個，係全班最憎睇書嗰個。Benny 同你拆開呢個最難解嘅謎 👇 🔧 工程師寫小說 ── 讀電機工程、做過汽車零件工程師，之後寫足 106 本，單係日本就賣咗超過一億冊。 💔 《嫌疑犯X的獻身》 ── 人有時只係咬實牙關撐住生活，就已經救咗另一個人。 🌑 《白夜行》 ── 我個頭頂從來冇出過太陽，但唔覺得黑，因為有一樣嘢幫我頂住太陽嗰個位。 📄 《解憂雜貨店》 ── 人生仲係一張白紙，你想畫成點都畫得；點揀，全部在你。 其實，以上所有，都係佢寫畀當年最憎睇書嘅自己都會覺得好睇嘅小說。 🕯️ 8 月 5 日，佢第 106 本書《永遠の記憶》仲會出版。佢最勁嘅唔係寫過幾多宗謀殺，而係令一班唔覺得自己鍾意睇書嘅人，都留低咗一段閱讀嘅記憶 ✨ 🎁 留言「東野」or「圭吾」or「紀念」🕯️，即刻 Send 你《東野圭吾十大著作．代表金句紀念卡》🌟 中日文對照，十本代表作金句一張卡收齊 😄 ⚠️ 記得先 Follow Benny，否則可能無法成功 Send 到《紀念卡》畀你 ⚠️ #東野圭吾 #圖書館 #日本文學 #推理小說 #日本文化",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-2.xx.fbcdn.net/v/t15.5256-10/761084842_1082862587422361_8709058143826244143_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=bosasXU03jUQ7kNvwGSAQ4c&_nc_oc=AdpT4r5O97hIupu2StAKQDKGJhEGIv7DlX9ZjIHiB2Ee7IcofQZLiTv_eiEp88udUOQ&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Ih4aTbK3bwS-zTC8A5sIOA&_nc_ss=7b20f&oh=00_AQGpn3d2FSNmaCWtWhlbpMEj161XO1g8bMJ0XShbM1sHpw&oe=6A912B5B",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-2.xx.fbcdn.net/v/t15.5256-10/761084842_1082862587422361_8709058143826244143_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=109&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=bosasXU03jUQ7kNvwGSAQ4c&_nc_oc=AdpT4r5O97hIupu2StAKQDKGJhEGIv7DlX9ZjIHiB2Ee7IcofQZLiTv_eiEp88udUOQ&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=Ih4aTbK3bwS-zTC8A5sIOA&_nc_ss=7b20f&oh=00_AQGpn3d2FSNmaCWtWhlbpMEj161XO1g8bMJ0XShbM1sHpw&oe=6A912B5B"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-08-23T20:57:30.058Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-08-23T20:57:30.161Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1831954625,
+    "collectionId": -1
+  },
+  {
     "_id": 1831938526,
     "link": "https://www.facebook.com/reel/1066508179143767/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "Triple the size of your closet with this 3D print Model: Overhead Closet Storage Shelf (also for IKEA PAX) by GK Design - Grzegorz Kolasa #useful3dprints #3dprinting #closethack",
