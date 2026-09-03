@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-03T12:47:27.897Z
+Synced: 2026-09-03T16:41:59.671Z
+
+## [Before you even consider buying solar you should use our free online tool. Our tool will calculate the cost to get solar energy in your home as well as how much you'll save on your monthly power bills every month. Developed with funds from the US Department of Energy, MySolar and its partners will calculate how you can save the most money by going solar.](https://www.facebook.com/reel/2166293017440555/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-09-03T15:44:29.393Z
+
+## [One model. So many tests. 🧪 This all-in-one 3D printer test helps you check print quality, overhangs, bridges, tolerances, and more in a single print. A simple way to see what your printer can really handle. Save this for your next calibration. #3DPrinting #3DPrinted #Maker #Satisfying #SideHustle #3DModel #Sparkoh.ai #STL #3dprinter #3dmodeling #cad #tech #handmade #blender #brim #bambulab #makerworld](https://www.facebook.com/reel/931706199500568/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-09-03T15:43:50.090Z
 
 ## [🥬懒人水焖菜做法，比水煮的入味，比爆炒的脆爽，简单好吃又健康。#水焖菜 . . . #食谱 #食谱分享](https://www.facebook.com/reel/4381802245401140/?fs=e&mibextid=wwXIfr&fs=e)
 
