@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-03T16:41:59.671Z
+Synced: 2026-09-03T19:26:36.207Z
+
+## [Up to $2,200 Off + $500 of Free Gifts In Cart! Sale Ends Soon! This drops into your pool and creates an infinite swim lane. No construction. No plumbing. No installation. Just drop it in and swim up to 2.5+ miles (180+ lengths) on a single charge. 🏊 3,000 GPM for a wide, smooth current, better than jets 🏊 Max speed up to 1:20 per 100 yards 🏊 Battery powered, ready in seconds 🏊 Fully portable, take it anywhere PLUS Free Underwater Streaming Headphones ($200), Free Ground Shipping ($250), Free Swim Accessories ($50)](https://www.facebook.com/reel/1085302380620760/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-09-03T18:05:10.056Z
 
 ## [Before you even consider buying solar you should use our free online tool. Our tool will calculate the cost to get solar energy in your home as well as how much you'll save on your monthly power bills every month. Developed with funds from the US Department of Energy, MySolar and its partners will calculate how you can save the most money by going solar.](https://www.facebook.com/reel/2166293017440555/?fs=e&mibextid=wwXIfr&fs=e)
 

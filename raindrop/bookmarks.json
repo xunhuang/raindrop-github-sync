@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1842608250,
+    "link": "https://www.facebook.com/reel/1085302380620760/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "Up to $2,200 Off + $500 of Free Gifts In Cart! Sale Ends Soon! This drops into your pool and creates an infinite swim lane. No construction. No plumbing. No installation. Just drop it in and swim up to 2.5+ miles (180+ lengths) on a single charge. 🏊 3,000 GPM for a wide, smooth current, better than jets 🏊 Max speed up to 1:20 per 100 yards 🏊 Battery powered, ready in seconds 🏊 Fully portable, take it anywhere PLUS Free Underwater Streaming Headphones ($200), Free Ground Shipping ($250), Free Swim Accessories ($50)",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra3-1.xx.fbcdn.net/v/t15.5256-10/748863863_3592691457545454_1637975042201415124_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=111&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=ug82VjE6D6oQ7kNvwHW3o8w&_nc_oc=AdqDSP5thdjzDvIwepU84TIe-IdUc2bsbC98h87Tu8gbntxGwZbJ-YT_ibbGaLnvywA&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Q_ABKDeVgteATm4fBZABPw&_nc_ss=7920f&oh=00_AQJl0wr5GNGdHsEO2UEkcKx0i-aZTkYFLRzzuaRyUAQPhA&oe=6A9F978E",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra3-1.xx.fbcdn.net/v/t15.5256-10/748863863_3592691457545454_1637975042201415124_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=111&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=ug82VjE6D6oQ7kNvwHW3o8w&_nc_oc=AdqDSP5thdjzDvIwepU84TIe-IdUc2bsbC98h87Tu8gbntxGwZbJ-YT_ibbGaLnvywA&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&_nc_gid=Q_ABKDeVgteATm4fBZABPw&_nc_ss=7920f&oh=00_AQJl0wr5GNGdHsEO2UEkcKx0i-aZTkYFLRzzuaRyUAQPhA&oe=6A9F978E"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-09-03T18:05:10.056Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-09-03T18:05:10.232Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1842608250,
+    "collectionId": -1
+  },
+  {
     "_id": 1842479403,
     "link": "https://www.facebook.com/reel/2166293017440555/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "Before you even consider buying solar you should use our free online tool. Our tool will calculate the cost to get solar energy in your home as well as how much you'll save on your monthly power bills every month. Developed with funds from the US Department of Energy, MySolar and its partners will calculate how you can save the most money by going solar.",
