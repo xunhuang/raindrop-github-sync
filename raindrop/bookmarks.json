@@ -1,5 +1,130 @@
 [
   {
+    "_id": 1845143489,
+    "link": "https://share.google/1A4OD5NYxc0Nkllnm",
+    "title": "Fantine Chandelier",
+    "excerpt": "Purchase the Fantine Chandelier by Currey and Company today. Free shipping on most orders and guaranteed low prices at Lumens.com.",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://images.lumens.com/is/image/Lumens/CNCP97434",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://images.lumens.com/is/image/Lumens/CNCP97434"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-09-06T05:36:26.357Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-09-06T05:36:26.481Z",
+    "domain": "share.google",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1845143489,
+    "collectionId": -1
+  },
+  {
+    "_id": 1845131552,
+    "link": "https://a.co/d/06r1Xk25",
+    "title": "KCO 8-Light Modern Brass Gold Sputnik Chandelier with Clear Glass Globe",
+    "excerpt": "Name: 8 Light Sputnik Chandelier\n Material: Brass + Glass\n Lamp Color: Gold\n Globe Color: Clear\n Style: Modern/Industrial /Mid-century \n Specific Uses: Indoor\n Voltage: 110-220V\n Recommended Area: 10-15 m²\n   \n 1* 8 Light Sputnik Chandelier\n 1* Accessories Kit\n 1* Customer Manual\n   \n 1.Do not...",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://m.media-amazon.com/images/I/51ti6QyR5uL._AC_SL1291_.jpg",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://m.media-amazon.com/images/I/51ti6QyR5uL._AC_SL1291_.jpg"
+      },
+      {
+        "type": "image",
+        "link": "https://m.media-amazon.com/images/I/51ti6QyR5uL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuNTwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOURANDHALF-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig0Nyk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-09-06T05:28:54.405Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-09-06T05:28:54.554Z",
+    "domain": "a.co",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1845131552,
+    "collectionId": -1
+  },
+  {
+    "_id": 1845125001,
+    "link": "https://a.co/d/04jBgFaB",
+    "title": "Benkut 3 Rings Modern LED Chandelier Black Gold Dimmable Circular Pendant Light for Dining Room, Foyer Chandelier with Remote Control Flush Mount High Ceiling Light for Kitchen Living Room, D30.7In",
+    "excerpt": "Benkut 3 Rings D30.7’’ Modern LED Chandelier Black Gold",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://m.media-amazon.com/images/I/61eLe1vVVNL._AC_SL1500_.jpg",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://m.media-amazon.com/images/I/61eLe1vVVNL._AC_SL1500_.jpg"
+      },
+      {
+        "type": "image",
+        "link": "https://m.media-amazon.com/images/I/61eLe1vVVNL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzBGMTExMSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPjQuNTwvc3Bhbj4=,60,875,420,420,0,0_PIRIOFOURANDHALF-medium-V2,TopLeft,190,885_ZJPHNwYW4gZm9yZWdyb3VuZD0iIzU2NTk1OSIgZm9udD0iQW1hem9uRW1iZXIgNjYiPig2NSk8L3NwYW4+,650,875,420,420,0,0_QL100_.jpg"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-09-06T05:24:22.541Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-09-06T05:24:22.757Z",
+    "domain": "a.co",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1845125001,
+    "collectionId": -1
+  },
+  {
     "_id": 1842608250,
     "link": "https://www.facebook.com/reel/1085302380620760/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "Up to $2,200 Off + $500 of Free Gifts In Cart! Sale Ends Soon! This drops into your pool and creates an infinite swim lane. No construction. No plumbing. No installation. Just drop it in and swim up to 2.5+ miles (180+ lengths) on a single charge. 🏊 3,000 GPM for a wide, smooth current, better than jets 🏊 Max speed up to 1:20 per 100 yards 🏊 Battery powered, ready in seconds 🏊 Fully portable, take it anywhere PLUS Free Underwater Streaming Headphones ($200), Free Ground Shipping ($250), Free Swim Accessories ($50)",

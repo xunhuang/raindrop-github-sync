@@ -1,6 +1,37 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-06T05:08:39.914Z
+Synced: 2026-09-06T09:22:47.529Z
+
+## [Fantine Chandelier](https://share.google/1A4OD5NYxc0Nkllnm)
+
+Created: 2026-09-06T05:36:26.357Z
+
+Purchase the Fantine Chandelier by Currey and Company today. Free shipping on most orders and guaranteed low prices at Lumens.com.
+
+## [KCO 8-Light Modern Brass Gold Sputnik Chandelier with Clear Glass Globe](https://a.co/d/06r1Xk25)
+
+Created: 2026-09-06T05:28:54.405Z
+
+Name: 8 Light Sputnik Chandelier
+ Material: Brass + Glass
+ Lamp Color: Gold
+ Globe Color: Clear
+ Style: Modern/Industrial /Mid-century 
+ Specific Uses: Indoor
+ Voltage: 110-220V
+ Recommended Area: 10-15 m²
+   
+ 1* 8 Light Sputnik Chandelier
+ 1* Accessories Kit
+ 1* Customer Manual
+   
+ 1.Do not...
+
+## [Benkut 3 Rings Modern LED Chandelier Black Gold Dimmable Circular Pendant Light for Dining Room, Foyer Chandelier with Remote Control Flush Mount High Ceiling Light for Kitchen Living Room, D30.7In](https://a.co/d/04jBgFaB)
+
+Created: 2026-09-06T05:24:22.541Z
+
+Benkut 3 Rings D30.7’’ Modern LED Chandelier Black Gold
 
 ## [Up to $2,200 Off + $500 of Free Gifts In Cart! Sale Ends Soon! This drops into your pool and creates an infinite swim lane. No construction. No plumbing. No installation. Just drop it in and swim up to 2.5+ miles (180+ lengths) on a single charge. 🏊 3,000 GPM for a wide, smooth current, better than jets 🏊 Max speed up to 1:20 per 100 yards 🏊 Battery powered, ready in seconds 🏊 Fully portable, take it anywhere PLUS Free Underwater Streaming Headphones ($200), Free Ground Shipping ($250), Free Swim Accessories ($50)](https://www.facebook.com/reel/1085302380620760/?fs=e&mibextid=wwXIfr&fs=e)
 
