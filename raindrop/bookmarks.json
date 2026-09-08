@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1847759521,
+    "link": "https://www.facebook.com/reel/4594556237440476/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "How I rebuilt my knees after 3 ACL tears + 3 meniscus tears 🦵 These are 4 exercises I used to build strength, stability, and confidence back into my knees: 1️⃣ Knee Pulses Build control through knee flexion while gradually getting comfortable loading deeper ranges. 2️⃣ Hamstring Bridge Hold Strengthens the hamstrings and teaches you to create stability around the knee. 3️⃣ Soleus Hold Progression Builds lower-leg strength and capacity to help absorb and produce force through the knee. 4️⃣ Hip Flexor Kickout Strengthens the hip flexors while challenging your ability to control the leg through range. You don’t need a perfect knee to build a strong one. You need the right progressions, consistency, and patience. Follow for more!",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-1.xx.fbcdn.net/v/t51.82787-15/788689245_17943546495289485_5708416337971807097_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=100&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=clSgk5IuICUQ7kNvwEb1-n0&_nc_oc=AdpsJOCvymoP15LQa_MiKRAi5gniVfzGJGy__CSbhUEUokZ7kaVDtmpSUeckbUGzGbs&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=iuHDdvyGMCEZUwxeZI_DyQ&_nc_ss=7920f&oh=00_AQJ4RPBAqsE7GCNsmsHG7auT80EqjocDeOB9XH0qqHZeqg&oe=6AA5771A",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-1.xx.fbcdn.net/v/t51.82787-15/788689245_17943546495289485_5708416337971807097_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=100&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=clSgk5IuICUQ7kNvwEb1-n0&_nc_oc=AdpsJOCvymoP15LQa_MiKRAi5gniVfzGJGy__CSbhUEUokZ7kaVDtmpSUeckbUGzGbs&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=iuHDdvyGMCEZUwxeZI_DyQ&_nc_ss=7920f&oh=00_AQJ4RPBAqsE7GCNsmsHG7auT80EqjocDeOB9XH0qqHZeqg&oe=6AA5771A"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-09-08T05:29:31.567Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-09-08T05:29:31.736Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1847759521,
+    "collectionId": -1
+  },
+  {
     "_id": 1845143489,
     "link": "https://share.google/1A4OD5NYxc0Nkllnm",
     "title": "Fantine Chandelier",
