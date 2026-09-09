@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-09T19:51:46.499Z
+Synced: 2026-09-09T22:00:33.211Z
 
 ## [How I rebuilt my knees after 3 ACL tears + 3 meniscus tears 🦵 These are 4 exercises I used to build strength, stability, and confidence back into my knees: 1️⃣ Knee Pulses Build control through knee flexion while gradually getting comfortable loading deeper ranges. 2️⃣ Hamstring Bridge Hold Strengthens the hamstrings and teaches you to create stability around the knee. 3️⃣ Soleus Hold Progression Builds lower-leg strength and capacity to help absorb and produce force through the knee. 4️⃣ Hip Flexor Kickout Strengthens the hip flexors while challenging your ability to control the leg through range. You don’t need a perfect knee to build a strong one. You need the right progressions, consistency, and patience. Follow for more!](https://www.facebook.com/reel/4594556237440476/?fs=e&mibextid=wwXIfr&fs=e)
 
