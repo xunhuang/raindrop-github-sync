@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1850281150,
+    "link": "https://www.facebook.com/reel/1713109549769757/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "【Hip Rotation Stretch to Prevent Knee Pain】 膝痛予防の為の股関節回旋ストレッチ",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra5-2.xx.fbcdn.net/v/t51.82787-15/792881951_18436382623132511_4575574355892811402_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=107&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=bvI-28AuGZEQ7kNvwHz_DoC&_nc_oc=AdpXZDAtP7eTM9fKbkX-OFbgq-eo10O4_duwlx_iU6WFGdj1poUovx971YDvAgPIVKU&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=xs1c1XOGD_GnvU-j6gmUbg&_nc_ss=7920f&oh=00_AQIEnNCsY-LmIy0FxbT3C7jGYMq7BTw7GQaSunHVw-kZjw&oe=6AA95A52",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra5-2.xx.fbcdn.net/v/t51.82787-15/792881951_18436382623132511_4575574355892811402_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=107&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=bvI-28AuGZEQ7kNvwHz_DoC&_nc_oc=AdpXZDAtP7eTM9fKbkX-OFbgq-eo10O4_duwlx_iU6WFGdj1poUovx971YDvAgPIVKU&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&_nc_gid=xs1c1XOGD_GnvU-j6gmUbg&_nc_ss=7920f&oh=00_AQIEnNCsY-LmIy0FxbT3C7jGYMq7BTw7GQaSunHVw-kZjw&oe=6AA95A52"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-09-11T05:01:52.231Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-09-11T05:01:52.343Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1850281150,
+    "collectionId": -1
+  },
+  {
     "_id": 1847759521,
     "link": "https://www.facebook.com/reel/4594556237440476/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "How I rebuilt my knees after 3 ACL tears + 3 meniscus tears 🦵 These are 4 exercises I used to build strength, stability, and confidence back into my knees: 1️⃣ Knee Pulses Build control through knee flexion while gradually getting comfortable loading deeper ranges. 2️⃣ Hamstring Bridge Hold Strengthens the hamstrings and teaches you to create stability around the knee. 3️⃣ Soleus Hold Progression Builds lower-leg strength and capacity to help absorb and produce force through the knee. 4️⃣ Hip Flexor Kickout Strengthens the hip flexors while challenging your ability to control the leg through range. You don’t need a perfect knee to build a strong one. You need the right progressions, consistency, and patience. Follow for more!",
