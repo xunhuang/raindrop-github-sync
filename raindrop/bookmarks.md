@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-14T10:33:48.872Z
+Synced: 2026-09-14T16:29:44.768Z
 
 ## [A dark wood-finished extendable table with a smooth hidden leaf mechanism and heavy-duty sliding rails. Expands in seconds. Direct from our factory in China. No middlemen. Wholesale worldwide. Fully customizable. DM for catalog and wholesale pricing. WhatsApp: +86 177 0229 4707 #furniture #table #extendabletable #factory #wholesale](https://www.facebook.com/reel/1679764700435485/?fs=e&mibextid=wwXIfr&fs=e)
 
