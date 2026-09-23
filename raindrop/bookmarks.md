@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-23T09:30:16.716Z
+Synced: 2026-09-23T14:19:47.609Z
+
+## [告別小腹！ 挑戰日本爆紅的「消防員虐腹訓練」🔥 別看只有 25 秒 全程深層核心發力、肚子直接炸裂！ 速度不用快， 關鍵是核心收緊、身體穩定 一開始跟不上很正常， 多練幾次就上手！ 想要平坦小腹？ 趕快收藏起來， 順便 Tag 身邊天天喊著要減肥的朋友一起動起來吧！💪✨ #居家運動 #跟練 #瘦小腹 #挑戰](https://www.facebook.com/reel/4522095081402976/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-09-23T14:16:52.446Z
+
+## [Your glute activation, deep core, and hip mobility work shouldn’t stay be there same moves forever. Most people do the same moves for months and wonder why they still feel the same! Here’s the thing — your body gets used to it! When you don’t progress the exercise, you stop getting anything out of it. Pick the level that challenges you while keeping the movement clean: 💪 Choose 1 exercise from each group 💪 8–12 reps each 💪 2–3 sets 💪 Progress to the next variation when you can control every rep without losing form Start where you are, then earn the harder version. If you want a mobility + strength plan that progresses with you and is built around your body, schedule and goals.. DM me the word HIPS and let’s work together! #glutes #workout #hipmobility #gym #gluteworkout](https://www.facebook.com/reel/2117143312216267/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-09-23T14:12:26.272Z
 
 ## [Facebook](https://www.facebook.com/reel/1126117023570857/?fs=e&mibextid=wwXIfr&fs=e)
 
