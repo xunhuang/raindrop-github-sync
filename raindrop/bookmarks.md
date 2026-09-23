@@ -1,6 +1,12 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-23T21:37:43.268Z
+Synced: 2026-09-23T23:55:48.831Z
+
+## [Build a foundation in... - MIT XPRO - Robotics Essentials](https://www.facebook.com/100071160743405/posts/pfbid0MVPimnnpJGfEZZK1HsUSiCtKPDSHkM59Nn9VbyDKxh52RqmPv1kAfQZHA6c5569wl/?d=n&mibextid=wwXIfr)
+
+Created: 2026-09-23T23:35:45.468Z
+
+Build a foundation in Robotics Essentials to fuel innovation for years to come.
 
 ## [告別小腹！ 挑戰日本爆紅的「消防員虐腹訓練」🔥 別看只有 25 秒 全程深層核心發力、肚子直接炸裂！ 速度不用快， 關鍵是核心收緊、身體穩定 一開始跟不上很正常， 多練幾次就上手！ 想要平坦小腹？ 趕快收藏起來， 順便 Tag 身邊天天喊著要減肥的朋友一起動起來吧！💪✨ #居家運動 #跟練 #瘦小腹 #挑戰](https://www.facebook.com/reel/4522095081402976/?fs=e&mibextid=wwXIfr&fs=e)
 
