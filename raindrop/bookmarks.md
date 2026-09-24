@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-23T23:55:48.831Z
+Synced: 2026-09-24T02:31:23.015Z
+
+## [老實人為什麼很難做到領導？3個致命的過期生存策略 這些策略個個致命，改不掉這輩子都當不了領導 #老實人很難做到領導 #3個致命傷 #不是性格是舊劇本 #改了才能上一層樓 參考來源: 桐姐商業頻道](https://www.facebook.com/reel/1918393935479410/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-09-24T01:11:17.035Z
 
 ## [Build a foundation in... - MIT XPRO - Robotics Essentials](https://www.facebook.com/100071160743405/posts/pfbid0MVPimnnpJGfEZZK1HsUSiCtKPDSHkM59Nn9VbyDKxh52RqmPv1kAfQZHA6c5569wl/?d=n&mibextid=wwXIfr)
 
