@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-25T01:46:15.242Z
+Synced: 2026-09-25T06:40:39.095Z
+
+## [Tag your favorite workout partner for this 10 minute session 🔥 Start with exercise 1 and complete all the reps. Once you’re done, move straight to the next exercise until you finish the entire list. Then start again from exercise 1 👀 ⏱️ You have 10 minutes 🔥 Complete as many rounds as possible 💪🏼 Rest only when you need it A simple but intense full body workout for those days when you’re short on time or your body is just craving some movement. Save it. Try it. And let me know how many rounds you complete 🙌🏼](https://www.facebook.com/reel/940236832004437/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-09-25T04:48:22.262Z
 
 ## [老實人為什麼很難做到領導？3個致命的過期生存策略 這些策略個個致命，改不掉這輩子都當不了領導 #老實人很難做到領導 #3個致命傷 #不是性格是舊劇本 #改了才能上一層樓 參考來源: 桐姐商業頻道](https://www.facebook.com/reel/1918393935479410/?fs=e&mibextid=wwXIfr&fs=e)
 
