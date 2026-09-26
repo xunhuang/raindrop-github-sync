@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-26T01:42:58.138Z
+Synced: 2026-09-26T06:37:31.478Z
 
 ## [Tag your favorite workout partner for this 10 minute session 🔥 Start with exercise 1 and complete all the reps. Once you’re done, move straight to the next exercise until you finish the entire list. Then start again from exercise 1 👀 ⏱️ You have 10 minutes 🔥 Complete as many rounds as possible 💪🏼 Rest only when you need it A simple but intense full body workout for those days when you’re short on time or your body is just craving some movement. Save it. Try it. And let me know how many rounds you complete 🙌🏼](https://www.facebook.com/reel/940236832004437/?fs=e&mibextid=wwXIfr&fs=e)
 
