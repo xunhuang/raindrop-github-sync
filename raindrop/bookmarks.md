@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-09-29T01:04:41.403Z
+Synced: 2026-09-29T06:48:00.939Z
 
 ## [10min work 40sec on 20sec off Rotational work benefits ✅great functional work ✅strengthen the core ✅prevent injuries #fitness #fitover40 #kettlebellworkout #homeworkout #coreworkout](https://www.facebook.com/reel/1403221941731017/?fs=e&mibextid=wwXIfr&fs=e)
 
