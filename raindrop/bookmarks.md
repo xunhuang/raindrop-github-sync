@@ -1,6 +1,18 @@
 # Raindrop Bookmarks
 
-Synced: 2026-10-01T19:49:03.883Z
+Synced: 2026-10-01T23:27:17.915Z
+
+## [When I got my first computer at 9 years old, I could never have imagined I would live through what is happening today. This year marks 18 years since I was first hired by a technology company. I was 16. Since then, I have sold tens of millions of reais worth of technology to the Brazilian government and worked with public institutions across all 27 states and at every level of government, this experience made me understand hardware and I can assure that if you don’t understand how computers work you will never have a chance to really use AI at it’s full potential. Over the years, I became obsessed with understanding the technologies shaping our era. To me, three matter enormously: distribution, blockchain and artificial intelligence. I have generated millions of reais using advertising platforms and social media algorithms for companies in completely different industries. I learned Web3, cryptocurrencies, blockchain systems and NFTs. Then I had the privilege of watching generative A...](https://www.facebook.com/reel/3709241965901439/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-01T22:47:42.465Z
+
+## [原來80年代有咁正嘎曲風～ Raidas——傳說](https://www.facebook.com/reel/3060643690811260/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-01T22:30:32.564Z
+
+## [Here’s four years of therapy in 20 seconds. Which part hit you hardest? Save this, share it, and follow me. #healing #mindset #selfgrowth #relationships #JucyJay](https://www.facebook.com/reel/1367182055184930/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-01T20:45:02.087Z
 
 ## [Your core needs these over crunches👊🏼💥 I swear by all 5 of these kettlebell core exercises. A strong core isn’t about the aesthetic of a six-pack. It’s about being able to play with your kids, move better in everyday life, stay injury free, and feel better overall💪🏼 💬Comment ‘Guide’ and I’ll send you my FREE 2-week Anti Dad Bod Kettlebell PDF - two weeks of programming ready to go. #kettlebellcore #kettlebellworkout #fitdads #corestrength #antidadbod](https://www.facebook.com/reel/1777856806539946/?fs=e&mibextid=wwXIfr&fs=e)
 
