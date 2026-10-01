@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-10-01T14:42:00.666Z
+Synced: 2026-10-01T19:49:03.883Z
 
 ## [Your core needs these over crunches👊🏼💥 I swear by all 5 of these kettlebell core exercises. A strong core isn’t about the aesthetic of a six-pack. It’s about being able to play with your kids, move better in everyday life, stay injury free, and feel better overall💪🏼 💬Comment ‘Guide’ and I’ll send you my FREE 2-week Anti Dad Bod Kettlebell PDF - two weeks of programming ready to go. #kettlebellcore #kettlebellworkout #fitdads #corestrength #antidadbod](https://www.facebook.com/reel/1777856806539946/?fs=e&mibextid=wwXIfr&fs=e)
 
