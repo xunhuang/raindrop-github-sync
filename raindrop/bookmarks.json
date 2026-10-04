@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1875979001,
+    "link": "https://www.facebook.com/reel/1562764205160476/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "🎿 SKIERS AND SNOWBOARDERS 🏂 #1 Bestselling Chest Pack for Snow Sports \"More comfortable than a backpack\" - Forbes",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/828570554_2959182067760437_426349232754816254_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=111&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=meZ-QgnWwQsQ7kNvwFaN4UH&_nc_oc=Adq6QS8V-ELA3750Y8SjMr1U294SGWPhxK7reivCT1WWCir2EOe9UCBEKR12euAckwg&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=FPi_lYj5kdIma8AxkLIBHg&_nc_ss=7b20f&oh=00_AQPh_Xus3LiDz5efjbeRh1rXe-AUTAROol87t2WbUnm3aQ&oe=6AC766C0",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/828570554_2959182067760437_426349232754816254_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=111&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=meZ-QgnWwQsQ7kNvwFaN4UH&_nc_oc=Adq6QS8V-ELA3750Y8SjMr1U294SGWPhxK7reivCT1WWCir2EOe9UCBEKR12euAckwg&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=FPi_lYj5kdIma8AxkLIBHg&_nc_ss=7b20f&oh=00_AQPh_Xus3LiDz5efjbeRh1rXe-AUTAROol87t2WbUnm3aQ&oe=6AC766C0"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-10-04T00:28:03.677Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-10-04T00:28:03.883Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1875979001,
+    "collectionId": -1
+  },
+  {
     "_id": 1873237780,
     "link": "https://www.facebook.com/reel/3709241965901439/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "When I got my first computer at 9 years old, I could never have imagined I would live through what is happening today. This year marks 18 years since I was first hired by a technology company. I was 16. Since then, I have sold tens of millions of reais worth of technology to the Brazilian government and worked with public institutions across all 27 states and at every level of government, this experience made me understand hardware and I can assure that if you don’t understand how computers work you will never have a chance to really use AI at it’s full potential. Over the years, I became obsessed with understanding the technologies shaping our era. To me, three matter enormously: distribution, blockchain and artificial intelligence. I have generated millions of reais using advertising platforms and social media algorithms for companies in completely different industries. I learned Web3, cryptocurrencies, blockchain systems and NFTs. Then I had the privilege of watching generative A...",

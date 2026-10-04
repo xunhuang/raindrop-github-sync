@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-10-03T22:27:16.937Z
+Synced: 2026-10-04T01:47:03.416Z
+
+## [🎿 SKIERS AND SNOWBOARDERS 🏂 #1 Bestselling Chest Pack for Snow Sports "More comfortable than a backpack" - Forbes](https://www.facebook.com/reel/1562764205160476/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-04T00:28:03.677Z
 
 ## [When I got my first computer at 9 years old, I could never have imagined I would live through what is happening today. This year marks 18 years since I was first hired by a technology company. I was 16. Since then, I have sold tens of millions of reais worth of technology to the Brazilian government and worked with public institutions across all 27 states and at every level of government, this experience made me understand hardware and I can assure that if you don’t understand how computers work you will never have a chance to really use AI at it’s full potential. Over the years, I became obsessed with understanding the technologies shaping our era. To me, three matter enormously: distribution, blockchain and artificial intelligence. I have generated millions of reais using advertising platforms and social media algorithms for companies in completely different industries. I learned Web3, cryptocurrencies, blockchain systems and NFTs. Then I had the privilege of watching generative A...](https://www.facebook.com/reel/3709241965901439/?fs=e&mibextid=wwXIfr&fs=e)
 
