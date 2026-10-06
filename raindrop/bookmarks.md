@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-10-06T10:04:10.215Z
+Synced: 2026-10-06T16:40:58.635Z
+
+## [Training strength? It’s about patterns Patterns you can load, progress, and repeat… until your body has no choice but to adapt Here are the 3 pattern buckets to build real strength (without overcomplicating it): 1) Upper body patterns Push (horizontal & vertical): push-ups/dips + pike/overhead push-ups Pull (horizontal & vertical): rows + pull-ups/chin-ups Goal: balance push and pull so you build strength and keep shoulders happy 2) Lower body patterns Squat/lunge: squats, split squats, step-ups Hinge: RDLs, hip hinges, bridges Goal: train knees and hips… because strong legs aren’t just “quad strength”. 3) Core / deep core patterns Anti-extension (don’t let ribs flare): dead bugs, hollow holds Anti-rotation (don’t let hips twist): carries, cross-body holds Anti-lateral flexion (don’t collapse sideways): side planks, suitcase carries Goal: control first, then intensity. Deep core = stability under pressure Do this on repeat and progress over time — Markus Kneissl](https://www.facebook.com/reel/1120046124034541/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-06T14:59:21.398Z
 
 ## [🎿 SKIERS AND SNOWBOARDERS 🏂 #1 Bestselling Chest Pack for Snow Sports "More comfortable than a backpack" - Forbes](https://www.facebook.com/reel/1562764205160476/?fs=e&mibextid=wwXIfr&fs=e)
 

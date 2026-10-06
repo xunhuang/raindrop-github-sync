@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1879082648,
+    "link": "https://www.facebook.com/reel/1120046124034541/?fs=e&mibextid=wwXIfr&fs=e",
+    "title": "Training strength? It’s about patterns Patterns you can load, progress, and repeat… until your body has no choice but to adapt Here are the 3 pattern buckets to build real strength (without overcomplicating it): 1) Upper body patterns Push (horizontal & vertical): push-ups/dips + pike/overhead push-ups Pull (horizontal & vertical): rows + pull-ups/chin-ups Goal: balance push and pull so you build strength and keep shoulders happy 2) Lower body patterns Squat/lunge: squats, split squats, step-ups Hinge: RDLs, hip hinges, bridges Goal: train knees and hips… because strong legs aren’t just “quad strength”. 3) Core / deep core patterns Anti-extension (don’t let ribs flare): dead bugs, hollow holds Anti-rotation (don’t let hips twist): carries, cross-body holds Anti-lateral flexion (don’t collapse sideways): side planks, suitcase carries Goal: control first, then intensity. Deep core = stability under pressure Do this on repeat and progress over time — Markus Kneissl",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/825948319_2449014888914821_6344662690041206774_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=107&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=qpeTHdj4FI4Q7kNvwG79ZXh&_nc_oc=AdodU5QXHKKBjyOsXsahq_FCkutrC0-XQGIAtbBXEvxtVcVJCGj6r2qhD7K-80i7SSs&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=3TnRTRQquUu8vwNpUcKxmA&_nc_ss=7f20f&oh=00_AQPTFBJMIIsaGT8VwUvAep8akMYWFDDziFb3gy1I59X-Xg&oe=6ACAF81E",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/825948319_2449014888914821_6344662690041206774_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=107&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=qpeTHdj4FI4Q7kNvwG79ZXh&_nc_oc=AdodU5QXHKKBjyOsXsahq_FCkutrC0-XQGIAtbBXEvxtVcVJCGj6r2qhD7K-80i7SSs&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=3TnRTRQquUu8vwNpUcKxmA&_nc_ss=7f20f&oh=00_AQPTFBJMIIsaGT8VwUvAep8akMYWFDDziFb3gy1I59X-Xg&oe=6ACAF81E"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-10-06T14:59:21.398Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-10-06T14:59:21.597Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1879082648,
+    "collectionId": -1
+  },
+  {
     "_id": 1875979001,
     "link": "https://www.facebook.com/reel/1562764205160476/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "🎿 SKIERS AND SNOWBOARDERS 🏂 #1 Bestselling Chest Pack for Snow Sports \"More comfortable than a backpack\" - Forbes",
