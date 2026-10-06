@@ -1,6 +1,22 @@
 # Raindrop Bookmarks
 
-Synced: 2026-10-06T16:40:58.635Z
+Synced: 2026-10-06T21:13:30.864Z
+
+## [❌ 2026年，日本樂園界已經經歷咗一場「暴力大洗牌」！ 舊地標已經Out，或者你已打卡無數次。 ✅今次帶你認識「日本樂園新四大天王」！�🇯🇵全都是2021年後的新生代！ �🎮 大阪 USJ 任天堂： 別傻傻排隊，沒搞懂「區域入場券」連水管都摸不到！ �🌲 愛知 吉卜力公園： 2024五大區全開！宮崎駿迷必去，但別指望有過山車哦。 �🧙 東京 哈利波特影城： 全球最大室內哈利波特！千萬別遲到，Slot制不等人！ �🦕 沖繩 JUNGLIA： 2025剛開的新王者！開越野車躲恐龍，停車場都要預約？� 👇 即刻Save低片尾個「懶人包」，交通、預約重點全部Mark好！ 快啲Tag你個Friend一齊睇！ ✨ #日本旅遊 #大阪USJ #吉卜力公園 #哈利波特影城 #JUNGLIA](https://www.facebook.com/reel/3190577671113813/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-06T17:18:41.981Z
+
+## [This is the kettlebell I've always wanted. Changes weight in 2kg increments and replaces over 10 of my standalone kettlebells.](https://www.facebook.com/reel/1393814472607764/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-06T17:15:50.759Z
+
+## [This table is going to save my back and knees! #woodworking #woodshop #woodworkingtips #diy #bearmountainbuilds](https://www.facebook.com/reel/1023920247010827/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-06T17:11:54.167Z
+
+## [A smooth flip requires the right hardware 💪🏼 Comment “PLANS” and I’ll send you a link to the flip table build plans 🔗 #woodworking #woodshop #diy #bearmountainbuilds](https://www.facebook.com/reel/1074619518797468/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-06T17:07:58.946Z
 
 ## [Training strength? It’s about patterns Patterns you can load, progress, and repeat… until your body has no choice but to adapt Here are the 3 pattern buckets to build real strength (without overcomplicating it): 1) Upper body patterns Push (horizontal & vertical): push-ups/dips + pike/overhead push-ups Pull (horizontal & vertical): rows + pull-ups/chin-ups Goal: balance push and pull so you build strength and keep shoulders happy 2) Lower body patterns Squat/lunge: squats, split squats, step-ups Hinge: RDLs, hip hinges, bridges Goal: train knees and hips… because strong legs aren’t just “quad strength”. 3) Core / deep core patterns Anti-extension (don’t let ribs flare): dead bugs, hollow holds Anti-rotation (don’t let hips twist): carries, cross-body holds Anti-lateral flexion (don’t collapse sideways): side planks, suitcase carries Goal: control first, then intensity. Deep core = stability under pressure Do this on repeat and progress over time — Markus Kneissl](https://www.facebook.com/reel/1120046124034541/?fs=e&mibextid=wwXIfr&fs=e)
 
