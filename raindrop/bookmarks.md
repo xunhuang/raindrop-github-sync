@@ -1,6 +1,18 @@
 # Raindrop Bookmarks
 
-Synced: 2026-10-11T14:23:21.393Z
+Synced: 2026-10-11T19:00:59.714Z
+
+## [Western Japan is home to so many incredible destinations 😍 From some of Japan’s most important temples and shrines to stunning scenery, beautifully preserved castles, scenic seaside spots, charming fishing villages, and some of the country’s most beautiful gardens… there are so many amazing places to explore, many of which are still off the beaten path! 🤩 Famous destinations like Kyoto, Osaka, and Hiroshima are of course part of the region, but just nearby, you’ll also find charming seaside towns along the Seto Inland Sea, as well as Yamaguchi, Shimane, and Tottori, which are still relatively unknown to international travelers. And that’s not to mention Okayama, Fukui, Kanazawa… 🤗 In short, there are so many places to discover, and they’re easy to explore with the JR WEST ALL AREA PASS or the Kansai-Hiroshima Area Pass! Head to our website to get your regional rail passes 🤗 #jrwest #japan #japantravel #japanexperience #beautifuldestination](https://www.facebook.com/reel/1758923745337052/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-11T15:21:24.212Z
+
+## [Build your own uni,toro and ikura don 🍣 This is simply irresistible 😆 #travelreels #foodie #japantravels #foodreels](https://www.facebook.com/reel/1608908630869187/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-11T15:20:52.688Z
+
+## [These Castor Wheels SURPRISED Me #workbench #woodshop #woodshoplife #workshop #diy #diyproject #woodworking](https://www.facebook.com/reel/1577106703685539/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-11T15:19:30.479Z
 
 ## [去日本剩係識睇大自然？其實最癲嘅係日本人嘅「強迫症造景術」！ 好多人以為去日本係睇天賜美景，但在我看來，日本人硬生生「砌」出來嘅景色先至係世界級！🌸🎆 這條片我不單止分享 4 個令我睇到有「巨物恐懼症」嘅震撼景點，仲會直接送4份攻略，你可以完美避開遊客陷阱，用最少嘅錢，影出拿督級嘅神相！ ✅ 春： 櫪木縣紫藤花（4點入場係關鍵！） ✅ 夏： 隅田川花火（唔好去淺草站迫！） ✅ 秋： 清水寺夜楓（傳說中嘅藍色雷射光！） ✅ 冬： 札幌雪祭（一定要上電視塔！） #日本旅遊 #日本攻略 #Benny店長 #萬物驚喜 #人造絕景 #日本四季](https://www.facebook.com/reel/752067280483001/?fs=e&mibextid=wwXIfr&fs=e)
 
