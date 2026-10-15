@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-10-15T19:23:55.460Z
+Synced: 2026-10-15T22:30:27.790Z
 
 ## [When to use which infill pattern in 3d printing #3dprinting #3dprint #3d #bambulab](https://www.facebook.com/reel/1806950363670315/?fs=e&mibextid=wwXIfr&fs=e)
 
