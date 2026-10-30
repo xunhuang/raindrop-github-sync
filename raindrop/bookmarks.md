@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-10-30T00:10:20.640Z
+Synced: 2026-10-30T05:40:45.309Z
+
+## [看完這段影片的人絕對是富人☺️](https://www.facebook.com/reel/1445696344089556/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-10-30T04:46:43.126Z
 
 ## [(合集)銷冠教徒手冊1-8 #銷冠與小跟班 #職場](https://www.facebook.com/reel/1112497127888487/?fs=e&mibextid=wwXIfr&fs=e)
 
