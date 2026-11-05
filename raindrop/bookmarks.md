@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-05T09:54:50.814Z
+Synced: 2026-11-05T17:44:48.982Z
+
+## [Ten Places Every Californian Should See At Least Once In Their Lifetime](https://www.facebook.com/reel/1420113822963286/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-11-05T14:58:31.735Z
 
 ## [生意思维#思维格局改变人生 #生意思维逻辑 #致富思维 #经商之道 #经商智慧](https://www.facebook.com/reel/29548868154705193/?fs=e&mibextid=wwXIfr&fs=e)
 
