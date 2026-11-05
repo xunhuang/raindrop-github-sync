@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-05T17:44:48.982Z
+Synced: 2026-11-05T22:53:49.031Z
 
 ## [Ten Places Every Californian Should See At Least Once In Their Lifetime](https://www.facebook.com/reel/1420113822963286/?fs=e&mibextid=wwXIfr&fs=e)
 
