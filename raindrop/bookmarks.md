@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-06T02:55:34.904Z
+Synced: 2026-11-06T10:11:25.074Z
+
+## [300 Rep Full-Body Workout Challenge With a Partner](https://www.facebook.com/reel/1143361325309695/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-11-06T05:48:50.682Z
 
 ## [Ten Places Every Californian Should See At Least Once In Their Lifetime](https://www.facebook.com/reel/1420113822963286/?fs=e&mibextid=wwXIfr&fs=e)
 
