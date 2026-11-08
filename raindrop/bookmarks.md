@@ -1,6 +1,18 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-08T14:55:18.760Z
+Synced: 2026-11-08T19:14:35.942Z
+
+## [2026/11/6 株式会社アットワーク創設40周年記念パーティー㊗️🎉 水戸市民会館🥂 コンポラブラザーズ🕶️ YouTube https://www.youtube.com/@soulchacha5049](https://www.facebook.com/reel/1688826872781319/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-11-08T17:31:16.910Z
+
+## [https://fb.watch/KMqOnwxgex/?mibextid=wwXIfr&fs=e](https://fb.watch/KMqOnwxgex/?mibextid=wwXIfr&fs=e)
+
+Created: 2026-11-08T17:29:58.087Z
+
+## [He had a genius idea for this empty corner of the house 💡](https://www.facebook.com/reel/1035761779474084/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-11-08T17:06:56.705Z
 
 ## [Voron 2.4 Build Part 58: 3D Printing Step-by-Step Guide](https://www.facebook.com/reel/29400556202967192/?fs=e&mibextid=wwXIfr&fs=e)
 
