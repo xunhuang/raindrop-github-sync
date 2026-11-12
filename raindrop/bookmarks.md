@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-11T23:31:27.403Z
+Synced: 2026-11-12T04:03:44.114Z
 
 ## [Stiff hips after sitting? Give them a little movement This five-move routine combines comfortable range of motion with active control: 1️⃣ Bent-knee hip rotations → 6–8 slow reps 2️⃣ Glute bridges → 8–10 reps 3️⃣ Supported kneeling hip opener → 5–6 reps 4️⃣ 90/90 good mornings → 6–8 total 5️⃣ Adductor rock-backs → 6–8 per side Start with one easy round. Take your time… the video is a preview, not the pace you need to match. Use your hands for support. Make the movements smaller when needed. And don’t push through hip pinching or knee pain. Swap the kneeling opener for a gentle half-kneeling hip-flexor rock if that feels better. Forcing a bigger range isn’t necessary. Instead practice a range you can comfortably control. Save this for your next desk break or lower-body warm-up. Follow and comment FREEDOM to get my mobility starter guide — Markus Kneissl](https://www.facebook.com/reel/1677919384043642/?fs=e&mibextid=wwXIfr&fs=e)
 
