@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-16T17:40:12.874Z
+Synced: 2026-11-17T01:03:23.398Z
 
 ## [Want to start calisthenics at home? 💪🔥 Start with these beginner exercises: → Push-Ups — 3×10 → Incline Push-Ups — 3×10 → Pike Push-Ups — 3×5 → Shoulder Taps — 3×20 → Hollow Body Hold — 3×30s → Boat Hold — 3×30s → L-Sit — 3×10s → Leg Lifts — 3×8 Build your strength step by step and work towards your first skill. 🔥 Follow 👉 #MoveFitness](https://www.facebook.com/reel/1753077379298317/?fs=e&mibextid=wwXIfr&fs=e)
 
