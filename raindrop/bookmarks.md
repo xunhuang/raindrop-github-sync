@@ -1,6 +1,14 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-18T01:02:57.140Z
+Synced: 2026-11-18T08:25:41.213Z
+
+## [真正決定你升遷與薪資的會議，你永遠不會被邀請進場 #職場升遷 #職場思維 #人脈# #職場認知 #漲知識](https://www.facebook.com/reel/2640721676427729/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-11-18T01:45:09.459Z
+
+## [🌀乱抽屉救星！！DIY双层抽中抽收纳](https://www.facebook.com/reel/1321886136623575/?fs=e&mibextid=wwXIfr&fs=e)
+
+Created: 2026-11-18T01:20:52.786Z
 
 ## [Want to start calisthenics at home? 💪🔥 Start with these beginner exercises: → Push-Ups — 3×10 → Incline Push-Ups — 3×10 → Pike Push-Ups — 3×5 → Shoulder Taps — 3×20 → Hollow Body Hold — 3×30s → Boat Hold — 3×30s → L-Sit — 3×10s → Leg Lifts — 3×8 Build your strength step by step and work towards your first skill. 🔥 Follow 👉 #MoveFitness](https://www.facebook.com/reel/1753077379298317/?fs=e&mibextid=wwXIfr&fs=e)
 
