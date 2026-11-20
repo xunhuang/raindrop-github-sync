@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-20T02:37:15.276Z
+Synced: 2026-11-20T10:26:01.822Z
 
 ## [真正決定你升遷與薪資的會議，你永遠不會被邀請進場 #職場升遷 #職場思維 #人脈# #職場認知 #漲知識](https://www.facebook.com/reel/2640721676427729/?fs=e&mibextid=wwXIfr&fs=e)
 
