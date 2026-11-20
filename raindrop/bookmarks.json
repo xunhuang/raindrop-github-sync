@@ -1,5 +1,44 @@
 [
   {
+    "_id": 1937376203,
+    "link": "https://www.facebook.com/reflectoria/videos/637796019172678/?fs=e&d=n&mibextid=wwXIfr&fs=e",
+    "title": "\"Religion is our first attempt at many things - but because it is our first it is our worst.\"",
+    "excerpt": "",
+    "note": "",
+    "type": "video",
+    "user": {
+      "$ref": "users",
+      "$id": 6956953
+    },
+    "cover": "https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/490543734_685892760506711_8449586802904008902_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=110&_nc_map=urlgen_bucketless&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=BM5ZqgsRJVYQ7kNvwG3uIMJ&_nc_oc=AdqJn3Ra0dveDS7A4vX8LTyHDq4eC73XVtShQQXPf-YsNAIk4T3X5ZdPVAqXidGxwbo&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=yeOGbUFrSLtqn4S1xsXk5w&_nc_ss=7c20f&oh=00_AQTmSe9qywlkivLLvR5Cl5Vn6OOwjrTH2nFxAHLGtketBw&oe=6B06315F",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/490543734_685892760506711_8449586802904008902_n.jpg?stp=cmp514_dst-jpg_p600x1066_tt6_u&_nc_cat=110&_nc_map=urlgen_bucketless&cb=c87d210d-e609a9eb&ccb=1-7&_nc_sid=487f02&_nc_ohc=BM5ZqgsRJVYQ7kNvwG3uIMJ&_nc_oc=AdqJn3Ra0dveDS7A4vX8LTyHDq4eC73XVtShQQXPf-YsNAIk4T3X5ZdPVAqXidGxwbo&_nc_zt=23&_nc_ht=scontent-fra3-2.xx&_nc_gid=yeOGbUFrSLtqn4S1xsXk5w&_nc_ss=7c20f&oh=00_AQTmSe9qywlkivLLvR5Cl5Vn6OOwjrTH2nFxAHLGtketBw&oe=6B06315F"
+      }
+    ],
+    "tags": [],
+    "important": false,
+    "removed": false,
+    "created": "2026-11-20T16:28:30.516Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": -1,
+      "oid": -1
+    },
+    "highlights": [],
+    "lastUpdate": "2026-11-20T16:28:31.444Z",
+    "domain": "facebook.com",
+    "creatorRef": {
+      "_id": 6956953,
+      "avatar": "",
+      "name": "xhuang",
+      "email": ""
+    },
+    "sort": 1937376203,
+    "collectionId": -1
+  },
+  {
     "_id": 1933873657,
     "link": "https://www.facebook.com/reel/2640721676427729/?fs=e&mibextid=wwXIfr&fs=e",
     "title": "真正決定你升遷與薪資的會議，你永遠不會被邀請進場 #職場升遷 #職場思維 #人脈# #職場認知 #漲知識",
