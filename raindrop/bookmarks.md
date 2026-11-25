@@ -1,6 +1,6 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-25T09:09:41.103Z
+Synced: 2026-11-25T19:11:11.165Z
 
 ## ["Religion is our first attempt at many things - but because it is our first it is our worst."](https://www.facebook.com/reflectoria/videos/637796019172678/?fs=e&d=n&mibextid=wwXIfr&fs=e)
 
