@@ -1,6 +1,10 @@
 # Raindrop Bookmarks
 
-Synced: 2026-11-26T19:51:10.131Z
+Synced: 2026-11-27T02:26:55.239Z
+
+## [https://fb.watch/L8rvNEt9CO/?mibextid=wwXIfr&fs=e](https://fb.watch/L8rvNEt9CO/?mibextid=wwXIfr&fs=e)
+
+Created: 2026-11-26T22:36:29.556Z
 
 ## ["Religion is our first attempt at many things - but because it is our first it is our worst."](https://www.facebook.com/reflectoria/videos/637796019172678/?fs=e&d=n&mibextid=wwXIfr&fs=e)
 
